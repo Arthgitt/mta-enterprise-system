@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MTA Enterprise Workforce Analytics</title>
+  <meta name="description" content="Real-time workforce analytics dashboard for the MTA Enterprise Timekeeping and Payroll System.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- ── HEADER ───────────────────────────────────────────── -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <div class="logo-icon">MTA</div>
+        <div>
+          <div class="logo-title">Enterprise Workforce Analytics</div>
+          <div class="logo-sub">Timekeeping &amp; Payroll Intelligence Platform</div>
+        </div>
+      </div>
+      <div class="header-right">
+        <div id="health-badge" class="badge badge-loading">● Connecting…</div>
+        <div class="time-display" id="live-time"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ── KPI STRIP ─────────────────────────────────────────── -->
+  <section class="kpi-strip">
+    <div class="kpi-card" id="kpi-payroll">
+      <div class="kpi-icon">💰</div>
+      <div class="kpi-value" id="kpi-total-payroll">—</div>
+      <div class="kpi-label">Total Payroll</div>
+    </div>
+    <div class="kpi-card" id="kpi-hours">
+      <div class="kpi-icon">⏱</div>
+      <div class="kpi-value" id="kpi-total-hours">—</div>
+      <div class="kpi-label">Total Hours</div>
+    </div>
+    <div class="kpi-card" id="kpi-overtime">
+      <div class="kpi-icon">🔥</div>
+      <div class="kpi-value" id="kpi-overtime-pct">—</div>
+      <div class="kpi-label">Overtime Rate</div>
+    </div>
+    <div class="kpi-card" id="kpi-departments">
+      <div class="kpi-icon">🏛</div>
+      <div class="kpi-value" id="kpi-depts">—</div>
+      <div class="kpi-label">Departments</div>
+    </div>
+    <div class="kpi-card" id="kpi-errors">
+      <div class="kpi-icon">⚠</div>
+      <div class="kpi-value" id="kpi-error-count">—</div>
+      <div class="kpi-label">Validation Errors</div>
+    </div>
+  </section>
+
+  <!-- ── MAIN GRID ──────────────────────────────────────────── -->
+  <main class="grid">
+
+    <!-- Payroll by Department -->
+    <div class="card card-full">
+      <div class="card-header">
+        <h2 class="card-title">💵 Payroll Cost by Department</h2>
+        <span class="card-subtitle">Gross pay aggregated across all weeks</span>
+      </div>
+      <div class="chart-container">
+        <canvas id="chart-dept-payroll"></canvas>
+      </div>
+    </div>
+
+    <!-- Weekly Payroll Trend -->
+    <div class="card card-wide">
+      <div class="card-header">
+        <h2 class="card-title">📈 Weekly Payroll Trend</h2>
+        <span class="card-subtitle">Last 12 weeks — regular vs overtime</span>
+      </div>
+      <div class="chart-container">
+        <canvas id="chart-weekly-trend"></canvas>
+      </div>
+    </div>
+
+    <!-- Overtime Rate by Department -->
+    <div class="card">
+      <div class="card-header">
+        <h2 class="card-title">⚡ Overtime Rate by Dept</h2>
+        <span class="card-subtitle">% of shifts with overtime</span>
+      </div>
+      <div class="chart-container chart-sm">
+        <canvas id="chart-ot-rate"></canvas>
+      </div>
+    </div>
+
+    <!-- Validation Errors Breakdown -->
+    <div class="card">
+      <div class="card-header">
+        <h2 class="card-title">🛡 Validation Error Breakdown</h2>
+        <span class="card-subtitle">ETL data quality flags by type</span>
+      </div>
+      <div class="chart-container chart-sm">
+        <canvas id="chart-errors"></canvas>
+      </div>
+    </div>
+
+    <!-- Top Employees Table -->
+    <div class="card card-full">
+      <div class="card-header">
+        <h2 class="card-title">🏆 Top 10 Employees by Hours</h2>
+        <span class="card-subtitle">Ranked by total hours worked</span>
+      </div>
+      <div class="table-wrapper">
+        <table class="data-table" id="table-employees">
+          <thead>
+            <tr>
+              <th>Rank</th><th>Employee ID</th><th>Name</th>
+              <th>Department</th><th>Total Hours</th>
+              <th>OT Hours</th><th>Total Pay</th>
+            </tr>
+          </thead>
+          <tbody id="tbody-employees">
+            <tr><td colspan="7" class="loading-cell">Loading…</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- ── FOOTER ─────────────────────────────────────────────── -->
+  <footer class="footer">
+    <span>MTA Enterprise Workforce Analytics v1.0 · Built with FastAPI + PostgreSQL + Python ETL</span>
+    <span id="last-refreshed"></span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

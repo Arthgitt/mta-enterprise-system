@@ -1,0 +1,53 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables (NEVER commit)
+.env
+
+# GCP credentials (NEVER commit)
+*.json
+!package.json
+!vercel.json
+!*/WorkforceAdmin*.csproj
+
+# Logs
+logs/*.log
+logs/daily_report_*.txt
+
+# Processed data (regenerate from ETL)
+data/processed/
+
+# Raw data (too large for git — checked in as sample only)
+# data/raw/   (keep sample files)
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Docker
+*.env.docker
+
+# C# build output
+csharp/WorkforceAdmin/bin/
+csharp/WorkforceAdmin/obj/
+
+# Vercel
+.vercel/
+
+# Node (dashboard only)
+node_modules/
+.vercel

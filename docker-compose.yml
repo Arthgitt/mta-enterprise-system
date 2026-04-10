@@ -1,0 +1,66 @@
+version: "3.9"
+
+# =============================================================
+# MTA Enterprise Workforce System — Docker Compose
+# Services: api, postgres, scheduler
+# =============================================================
+
+services:
+
+  # ── PostgreSQL Database ──────────────────────────────────
+  postgres:
+    image: postgres:15-alpine
+    container_name: mta_postgres
+    environment:
+      POSTGRES_DB:       mta_workforce
+      POSTGRES_USER:     postgres
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-strongpassword}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d mta_workforce"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  # ── FastAPI Backend ───────────────────────────────────────
+  api:
+    build: .
+    container_name: mta_api
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://postgres:${POSTGRES_PASSWORD:-strongpassword}@postgres:5432/mta_workforce
+      ENVIRONMENT:  production
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    restart: unless-stopped
+
+  # ── Scheduler (APScheduler) ───────────────────────────────
+  scheduler:
+    build: .
+    container_name: mta_scheduler
+    command: ["python", "-m", "scheduler.cron_jobs"]
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://postgres:${POSTGRES_PASSWORD:-strongpassword}@postgres:5432/mta_workforce
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    depends_on:
+      postgres:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+    name: mta_postgres_data

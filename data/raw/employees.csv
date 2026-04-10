@@ -1,0 +1,1001 @@
+employee_id,first_name,last_name,department,pay_rate,hire_date,status,email
+EMP00001,Jennifer,Johnson,Infrastructure,36.79,2022-03-04,Active,emp00001@mta-corp.org
+EMP00002,Stephanie,Miller,Scheduling,67.75,2016-07-25,Inactive,emp00002@mta-corp.org
+EMP00003,Carol,Ramirez,Operations,20.48,2015-12-23,Active,emp00003@mta-corp.org
+EMP00004,Steven,Hill,Operations,55.82,2017-08-10,On Leave,emp00004@mta-corp.org
+EMP00005,Jason,Wright,IT,33.16,2022-04-15,Inactive,emp00005@mta-corp.org
+EMP00006,James,Carter,Procurement,29.12,2018-02-13,Active,emp00006@mta-corp.org
+EMP00007,Karen,Martinez,Bus,82.15,2018-10-25,Active,emp00007@mta-corp.org
+EMP00008,Patricia,Harris,Maintenance,42.37,2016-02-23,Active,emp00008@mta-corp.org
+EMP00009,Charles,Williams,Infrastructure,49.05,2021-10-08,Active,emp00009@mta-corp.org
+EMP00010,Patricia,Scott,Finance,73.66,2019-03-31,Inactive,emp00010@mta-corp.org
+EMP00011,Betty,Torres,Bus,65.35,2024-12-05,Active,emp00011@mta-corp.org
+EMP00012,Thomas,Roberts,Finance,84.02,2022-06-01,Active,emp00012@mta-corp.org
+EMP00013,Michael,Harris,Finance,48.65,2024-09-19,Active,emp00013@mta-corp.org
+EMP00014,Betty,Thompson,Bus,63.07,2016-10-28,On Leave,emp00014@mta-corp.org
+EMP00015,Helen,Jones,Customer Service,60.73,2022-08-31,Inactive,emp00015@mta-corp.org
+EMP00016,Sarah,Hernandez,Safety,43.73,2023-03-06,On Leave,emp00016@mta-corp.org
+EMP00017,Michelle,Anderson,Scheduling,40.06,2022-09-19,Active,emp00017@mta-corp.org
+EMP00018,David,Lee,IT,36.3,2017-07-27,Active,emp00018@mta-corp.org
+EMP00019,Deborah,Lee,Bus,62.09,2021-05-12,Active,emp00019@mta-corp.org
+EMP00020,Helen,Robinson,Rail,36.11,2024-12-02,Active,emp00020@mta-corp.org
+EMP00021,Michelle,Wright,Finance,68.18,2023-05-10,Active,emp00021@mta-corp.org
+EMP00022,Dorothy,White,Bus,84.82,2021-07-18,Active,emp00022@mta-corp.org
+EMP00023,Emily,Garcia,Procurement,21.63,2020-09-18,Active,emp00023@mta-corp.org
+EMP00024,Anthony,Hernandez,Procurement,63.75,2016-09-18,Inactive,emp00024@mta-corp.org
+EMP00025,Mark,Harris,Customer Service,84.74,2015-09-18,Inactive,emp00025@mta-corp.org
+EMP00026,Michelle,Smith,Scheduling,66.43,2017-10-26,On Leave,emp00026@mta-corp.org
+EMP00027,Edward,Carter,Finance,69.61,2024-12-03,Active,emp00027@mta-corp.org
+EMP00028,Christopher,Ramirez,Rail,48.67,2016-04-01,On Leave,emp00028@mta-corp.org
+EMP00029,Matthew,Taylor,Engineering,69.17,2024-10-27,Inactive,emp00029@mta-corp.org
+EMP00030,Anthony,Martin,Legal,60.99,2016-03-11,Inactive,emp00030@mta-corp.org
+EMP00031,Barbara,White,Procurement,29.24,2017-03-25,Inactive,emp00031@mta-corp.org
+EMP00032,Ronald,Lee,Safety,19.8,2015-01-03,Active,emp00032@mta-corp.org
+EMP00033,Nancy,Thomas,Operations,34.52,2024-11-08,Inactive,emp00033@mta-corp.org
+EMP00034,Patricia,Campbell,Safety,72.77,2015-11-19,Inactive,emp00034@mta-corp.org
+EMP00035,William,Rodriguez,Scheduling,50.11,2023-08-03,Inactive,emp00035@mta-corp.org
+EMP00036,Charles,King,Legal,58.84,2016-11-07,Active,emp00036@mta-corp.org
+EMP00037,Gary,Campbell,Infrastructure,31.88,2021-01-17,Active,emp00037@mta-corp.org
+EMP00038,Kevin,Adams,HR,47.63,2019-06-23,Inactive,emp00038@mta-corp.org
+EMP00039,Jennifer,Thomas,Bus,22.76,2020-01-24,Active,emp00039@mta-corp.org
+EMP00040,Michelle,Anderson,Customer Service,33.14,2021-08-06,Active,emp00040@mta-corp.org
+EMP00041,Anthony,Brown,Bus,22.98,2022-12-09,Active,emp00041@mta-corp.org
+EMP00042,Lisa,Jones,Engineering,34.33,2024-08-22,On Leave,emp00042@mta-corp.org
+EMP00043,Jessica,Wright,Rail,66.6,2020-06-11,Inactive,emp00043@mta-corp.org
+EMP00044,Kenneth,Thomas,Procurement,49.95,2021-06-18,Active,emp00044@mta-corp.org
+EMP00045,Michael,Miller,Scheduling,47.16,2017-02-18,Active,emp00045@mta-corp.org
+EMP00046,Ashley,Campbell,Operations,63.28,2019-08-11,On Leave,emp00046@mta-corp.org
+EMP00047,Linda,Sanchez,Infrastructure,41.06,2016-02-08,Active,emp00047@mta-corp.org
+EMP00048,Joseph,Gonzalez,Engineering,48.33,2017-10-15,Active,emp00048@mta-corp.org
+EMP00049,Karen,Robinson,Bus,76.65,2017-01-21,Active,emp00049@mta-corp.org
+EMP00050,Michelle,Miller,Operations,61.87,2019-12-21,Inactive,emp00050@mta-corp.org
+EMP00051,James,Garcia,Procurement,74.94,2024-05-17,Active,emp00051@mta-corp.org
+EMP00052,Emily,Walker,Bus,76.0,2019-07-23,Active,emp00052@mta-corp.org
+EMP00053,Mark,Smith,IT,36.14,2016-11-05,Active,emp00053@mta-corp.org
+EMP00054,Sandra,Hall,Infrastructure,84.7,2018-03-14,Inactive,emp00054@mta-corp.org
+EMP00055,Deborah,Young,Rail,31.13,2022-06-04,Active,emp00055@mta-corp.org
+EMP00056,Carol,Mitchell,Engineering,22.55,2015-08-28,Active,emp00056@mta-corp.org
+EMP00057,Linda,Nguyen,Safety,51.94,2015-08-23,Inactive,emp00057@mta-corp.org
+EMP00058,Linda,Allen,Maintenance,75.11,2016-10-06,Active,emp00058@mta-corp.org
+EMP00059,Robert,Baker,Legal,34.14,2021-09-03,Active,emp00059@mta-corp.org
+EMP00060,Brian,Thomas,Customer Service,58.04,2024-12-25,Inactive,emp00060@mta-corp.org
+EMP00061,Donald,Nelson,Customer Service,56.09,2015-12-02,Active,emp00061@mta-corp.org
+EMP00062,Jessica,Nelson,Infrastructure,39.39,2017-12-04,Active,emp00062@mta-corp.org
+EMP00063,William,Nelson,Scheduling,38.45,2019-06-10,Active,emp00063@mta-corp.org
+EMP00064,Robert,Smith,Safety,59.81,2023-06-07,Inactive,emp00064@mta-corp.org
+EMP00065,Robert,Wright,Bus,52.14,2016-02-14,Active,emp00065@mta-corp.org
+EMP00066,Robert,Thomas,HR,37.45,2018-11-30,Active,emp00066@mta-corp.org
+EMP00067,Edward,Rivera,Finance,59.18,2024-05-08,On Leave,emp00067@mta-corp.org
+EMP00068,James,Nelson,Legal,55.38,2020-12-06,On Leave,emp00068@mta-corp.org
+EMP00069,William,Taylor,Maintenance,77.67,2016-02-29,On Leave,emp00069@mta-corp.org
+EMP00070,Barbara,Moore,Finance,58.72,2021-03-16,On Leave,emp00070@mta-corp.org
+EMP00071,Jessica,Baker,Scheduling,75.22,2018-11-05,Inactive,emp00071@mta-corp.org
+EMP00072,Charles,Brown,Maintenance,60.68,2020-06-24,Active,emp00072@mta-corp.org
+EMP00073,James,Perez,Procurement,27.2,2015-06-30,Active,emp00073@mta-corp.org
+EMP00074,Stephanie,Lewis,Engineering,65.43,2016-10-23,Inactive,emp00074@mta-corp.org
+EMP00075,Jennifer,Jones,Infrastructure,78.61,2015-02-09,Inactive,emp00075@mta-corp.org
+EMP00076,Betty,Nguyen,Engineering,28.35,2015-05-28,Active,emp00076@mta-corp.org
+EMP00077,Nancy,White,Procurement,83.15,2015-06-21,Active,emp00077@mta-corp.org
+EMP00078,Jessica,Baker,Bus,62.85,2019-01-05,Active,emp00078@mta-corp.org
+EMP00079,Michelle,Clark,Customer Service,68.34,2023-10-01,Active,emp00079@mta-corp.org
+EMP00080,Richard,Lopez,IT,20.15,2024-09-11,On Leave,emp00080@mta-corp.org
+EMP00081,Donald,Nelson,Legal,67.38,2018-09-22,Active,emp00081@mta-corp.org
+EMP00082,Richard,Hall,Maintenance,43.94,2017-12-28,Active,emp00082@mta-corp.org
+EMP00083,Kenneth,Anderson,Bus,72.8,2024-08-17,Active,emp00083@mta-corp.org
+EMP00084,Nancy,Anderson,Bus,20.07,2018-12-03,Active,emp00084@mta-corp.org
+EMP00085,Lisa,Moore,Legal,23.12,2019-06-21,Active,emp00085@mta-corp.org
+EMP00086,Helen,Allen,IT,63.69,2018-12-09,Inactive,emp00086@mta-corp.org
+EMP00087,Maria,Davis,Finance,30.37,2018-09-18,Active,emp00087@mta-corp.org
+EMP00088,Michael,Hill,IT,41.49,2015-06-06,Active,emp00088@mta-corp.org
+EMP00089,Ronald,Allen,Maintenance,44.12,2019-11-23,Inactive,emp00089@mta-corp.org
+EMP00090,Charles,Williams,Infrastructure,47.5,2017-02-17,Inactive,emp00090@mta-corp.org
+EMP00091,Edward,Baker,Infrastructure,81.03,2024-01-17,On Leave,emp00091@mta-corp.org
+EMP00092,Joseph,White,IT,23.15,2022-07-09,On Leave,emp00092@mta-corp.org
+EMP00093,Amanda,Lee,Scheduling,74.89,2018-09-14,On Leave,emp00093@mta-corp.org
+EMP00094,Steven,Martin,Scheduling,45.66,2018-05-15,Active,emp00094@mta-corp.org
+EMP00095,Christopher,Scott,Rail,31.26,2022-10-26,On Leave,emp00095@mta-corp.org
+EMP00096,Melissa,Mitchell,Rail,59.43,2019-04-02,Active,emp00096@mta-corp.org
+EMP00097,Michelle,Smith,Finance,37.58,2019-07-22,Active,emp00097@mta-corp.org
+EMP00098,Carol,Hill,Scheduling,39.93,2023-10-24,Active,emp00098@mta-corp.org
+EMP00099,Melissa,Wilson,Engineering,49.97,2019-12-17,On Leave,emp00099@mta-corp.org
+EMP00100,Kevin,Garcia,Finance,52.78,2016-11-26,On Leave,emp00100@mta-corp.org
+EMP00101,Lisa,Garcia,Legal,81.81,2021-12-11,Active,emp00101@mta-corp.org
+EMP00102,Nancy,Anderson,Procurement,31.74,2022-07-18,Active,emp00102@mta-corp.org
+EMP00103,Sarah,Walker,Customer Service,75.01,2015-07-09,Active,emp00103@mta-corp.org
+EMP00104,Donald,Green,Customer Service,31.43,2020-02-09,On Leave,emp00104@mta-corp.org
+EMP00105,Emily,Sanchez,Bus,28.31,2019-04-22,On Leave,emp00105@mta-corp.org
+EMP00106,Gary,Roberts,Maintenance,70.26,2015-01-23,Active,emp00106@mta-corp.org
+EMP00107,Jason,King,Safety,21.84,2016-12-21,Active,emp00107@mta-corp.org
+EMP00108,Jennifer,Robinson,Rail,71.79,2024-07-06,On Leave,emp00108@mta-corp.org
+EMP00109,Michelle,Hill,HR,81.68,2020-12-15,Active,emp00109@mta-corp.org
+EMP00110,Matthew,Allen,IT,73.73,2021-11-14,Inactive,emp00110@mta-corp.org
+EMP00111,Richard,Mitchell,Legal,50.07,2020-01-01,Active,emp00111@mta-corp.org
+EMP00112,Sarah,Green,Finance,69.43,2023-06-07,Inactive,emp00112@mta-corp.org
+EMP00113,Anthony,Thomas,Finance,47.75,2020-06-07,On Leave,emp00113@mta-corp.org
+EMP00114,Sarah,Moore,HR,39.76,2018-03-16,Inactive,emp00114@mta-corp.org
+EMP00115,William,Martinez,Bus,43.97,2015-11-27,Active,emp00115@mta-corp.org
+EMP00116,Jessica,Jones,IT,45.61,2022-12-03,Inactive,emp00116@mta-corp.org
+EMP00117,Donald,Brown,Bus,73.89,2020-03-23,Active,emp00117@mta-corp.org
+EMP00118,Carol,Hall,Operations,75.47,2023-08-20,Inactive,emp00118@mta-corp.org
+EMP00119,Kenneth,Smith,HR,38.36,2019-04-08,Active,emp00119@mta-corp.org
+EMP00120,Donald,Wright,Infrastructure,67.35,2024-07-27,Inactive,emp00120@mta-corp.org
+EMP00121,Emily,Anderson,Finance,47.48,2017-06-22,Active,emp00121@mta-corp.org
+EMP00122,Lisa,Nelson,Scheduling,71.58,2019-05-12,On Leave,emp00122@mta-corp.org
+EMP00123,Ashley,Rodriguez,Customer Service,54.02,2016-11-07,Active,emp00123@mta-corp.org
+EMP00124,Brian,Nelson,Operations,24.08,2021-08-21,Active,emp00124@mta-corp.org
+EMP00125,Ashley,Lopez,Operations,35.8,2016-07-09,Active,emp00125@mta-corp.org
+EMP00126,Ashley,Lee,HR,69.12,2017-05-16,Active,emp00126@mta-corp.org
+EMP00127,Gary,Clark,Finance,74.02,2018-02-13,Active,emp00127@mta-corp.org
+EMP00128,Stephanie,Wright,Operations,84.99,2015-03-21,Active,emp00128@mta-corp.org
+EMP00129,Helen,Jones,Procurement,82.16,2017-07-07,Active,emp00129@mta-corp.org
+EMP00130,Maria,Thomas,Bus,74.31,2023-06-17,Inactive,emp00130@mta-corp.org
+EMP00131,Sarah,Rodriguez,Safety,63.02,2016-09-16,Inactive,emp00131@mta-corp.org
+EMP00132,Ashley,Hall,Finance,69.5,2017-06-11,Active,emp00132@mta-corp.org
+EMP00133,Ronald,Mitchell,Infrastructure,26.12,2021-10-17,Active,emp00133@mta-corp.org
+EMP00134,Michael,Nguyen,Operations,80.27,2018-06-28,Inactive,emp00134@mta-corp.org
+EMP00135,Mark,Sanchez,Infrastructure,31.69,2022-08-06,Inactive,emp00135@mta-corp.org
+EMP00136,Anthony,Thomas,Maintenance,64.86,2022-09-29,Active,emp00136@mta-corp.org
+EMP00137,Melissa,Hill,Procurement,26.55,2024-07-14,Inactive,emp00137@mta-corp.org
+EMP00138,David,Thompson,Engineering,46.99,2023-10-11,Active,emp00138@mta-corp.org
+EMP00139,Steven,Adams,HR,19.34,2015-10-10,Active,emp00139@mta-corp.org
+EMP00140,Emily,Miller,IT,82.39,2024-03-22,On Leave,emp00140@mta-corp.org
+EMP00141,Ashley,Rivera,Rail,47.46,2024-04-17,On Leave,emp00141@mta-corp.org
+EMP00142,Helen,Moore,Customer Service,72.25,2020-11-07,Inactive,emp00142@mta-corp.org
+EMP00143,Kenneth,Robinson,IT,73.41,2023-09-08,Inactive,emp00143@mta-corp.org
+EMP00144,Daniel,Thomas,Legal,80.65,2018-01-04,Active,emp00144@mta-corp.org
+EMP00145,George,Thomas,Procurement,49.4,2024-11-20,Inactive,emp00145@mta-corp.org
+EMP00146,Mark,Perez,Operations,51.37,2022-06-29,Active,emp00146@mta-corp.org
+EMP00147,Emily,Wilson,HR,71.56,2017-01-14,Active,emp00147@mta-corp.org
+EMP00148,Ronald,Hall,Finance,55.46,2018-02-19,Inactive,emp00148@mta-corp.org
+EMP00149,Patricia,Thomas,Infrastructure,45.53,2017-02-21,Inactive,emp00149@mta-corp.org
+EMP00150,Sarah,Hall,Safety,61.45,2023-07-03,Active,emp00150@mta-corp.org
+EMP00151,Maria,Garcia,Finance,33.24,2020-01-10,On Leave,emp00151@mta-corp.org
+EMP00152,Nancy,Nelson,Customer Service,43.04,2017-09-23,Inactive,emp00152@mta-corp.org
+EMP00153,Paul,Ramirez,Infrastructure,55.1,2020-12-14,Active,emp00153@mta-corp.org
+EMP00154,Ashley,Moore,Finance,35.22,2022-11-18,Active,emp00154@mta-corp.org
+EMP00155,Joseph,Lee,Maintenance,67.9,2023-02-02,On Leave,emp00155@mta-corp.org
+EMP00156,Joseph,Wilson,Infrastructure,50.7,2017-01-28,On Leave,emp00156@mta-corp.org
+EMP00157,Gary,King,Customer Service,37.32,2021-08-11,Active,emp00157@mta-corp.org
+EMP00158,Joseph,Jackson,Bus,42.5,2024-05-03,Active,emp00158@mta-corp.org
+EMP00159,Deborah,Wright,Rail,36.74,2015-02-27,Active,emp00159@mta-corp.org
+EMP00160,Christopher,Hall,Rail,60.92,2021-03-16,Active,emp00160@mta-corp.org
+EMP00161,James,Torres,Finance,49.71,2016-02-25,Active,emp00161@mta-corp.org
+EMP00162,Susan,Brown,Finance,81.08,2018-10-27,Active,emp00162@mta-corp.org
+EMP00163,Robert,Sanchez,Safety,23.43,2016-04-12,On Leave,emp00163@mta-corp.org
+EMP00164,Linda,Martinez,Rail,72.44,2022-09-12,Active,emp00164@mta-corp.org
+EMP00165,Sarah,Davis,Engineering,69.34,2015-12-15,Inactive,emp00165@mta-corp.org
+EMP00166,Amanda,Anderson,Procurement,53.25,2021-09-07,Active,emp00166@mta-corp.org
+EMP00167,Nancy,Nguyen,IT,38.81,2019-12-19,Inactive,emp00167@mta-corp.org
+EMP00168,Amanda,Mitchell,Maintenance,81.51,2015-09-04,Active,emp00168@mta-corp.org
+EMP00169,Jessica,Taylor,Scheduling,23.9,2022-01-06,Active,emp00169@mta-corp.org
+EMP00170,Michelle,Jones,Rail,18.68,2016-12-12,Active,emp00170@mta-corp.org
+EMP00171,Ronald,Walker,Finance,20.67,2022-09-24,Active,emp00171@mta-corp.org
+EMP00172,Christopher,Hall,Legal,48.69,2022-12-05,On Leave,emp00172@mta-corp.org
+EMP00173,Charles,Green,Customer Service,62.47,2017-08-14,Active,emp00173@mta-corp.org
+EMP00174,Jennifer,Wright,Bus,61.57,2019-10-08,Active,emp00174@mta-corp.org
+EMP00175,Barbara,Jones,Operations,29.53,2024-04-08,Active,emp00175@mta-corp.org
+EMP00176,Stephanie,Torres,Finance,47.7,2021-09-03,Active,emp00176@mta-corp.org
+EMP00177,Nancy,Hall,IT,81.19,2022-09-21,Inactive,emp00177@mta-corp.org
+EMP00178,Emily,Lewis,Maintenance,58.27,2021-01-20,Active,emp00178@mta-corp.org
+EMP00179,Daniel,Hill,Finance,20.22,2023-03-28,Active,emp00179@mta-corp.org
+EMP00180,Brian,Nguyen,Operations,84.97,2022-07-24,On Leave,emp00180@mta-corp.org
+EMP00181,Karen,Torres,Operations,69.25,2024-03-18,Active,emp00181@mta-corp.org
+EMP00182,Donna,Adams,Safety,79.42,2020-04-11,Active,emp00182@mta-corp.org
+EMP00183,Sandra,Green,Legal,51.2,2021-07-25,Active,emp00183@mta-corp.org
+EMP00184,Paul,Clark,HR,39.85,2020-04-09,Active,emp00184@mta-corp.org
+EMP00185,Richard,Perez,IT,64.63,2024-08-14,Active,emp00185@mta-corp.org
+EMP00186,Dorothy,Carter,Engineering,20.94,2022-06-06,Active,emp00186@mta-corp.org
+EMP00187,Charles,Lee,Maintenance,83.02,2018-07-12,Active,emp00187@mta-corp.org
+EMP00188,Steven,Smith,Scheduling,76.31,2024-09-12,Active,emp00188@mta-corp.org
+EMP00189,Linda,Gonzalez,Engineering,42.56,2019-08-20,Active,emp00189@mta-corp.org
+EMP00190,George,Carter,Operations,32.04,2022-01-05,Inactive,emp00190@mta-corp.org
+EMP00191,Christopher,Lewis,Infrastructure,50.73,2016-06-20,Active,emp00191@mta-corp.org
+EMP00192,Ronald,Thomas,Infrastructure,29.03,2022-01-24,Inactive,emp00192@mta-corp.org
+EMP00193,Michelle,Clark,Maintenance,33.44,2015-02-26,Active,emp00193@mta-corp.org
+EMP00194,Jennifer,Adams,Legal,28.74,2020-03-05,On Leave,emp00194@mta-corp.org
+EMP00195,Steven,Rivera,Finance,46.13,2018-04-10,Active,emp00195@mta-corp.org
+EMP00196,Sarah,Robinson,Engineering,28.12,2020-04-18,Active,emp00196@mta-corp.org
+EMP00197,Steven,Mitchell,Rail,75.96,2021-09-21,Active,emp00197@mta-corp.org
+EMP00198,Donald,Perez,Procurement,52.26,2023-08-31,Active,emp00198@mta-corp.org
+EMP00199,Matthew,Martin,Legal,57.53,2018-03-04,On Leave,emp00199@mta-corp.org
+EMP00200,Barbara,Lewis,Engineering,50.71,2020-06-28,Active,emp00200@mta-corp.org
+EMP00201,Gary,Wright,IT,48.78,2021-03-10,Active,emp00201@mta-corp.org
+EMP00202,Joseph,Hall,Bus,56.52,2024-10-01,Active,emp00202@mta-corp.org
+EMP00203,Rebecca,Clark,Operations,39.66,2024-08-07,Active,emp00203@mta-corp.org
+EMP00204,Mark,Harris,Scheduling,71.19,2022-11-28,On Leave,emp00204@mta-corp.org
+EMP00205,Emily,Williams,Rail,51.9,2016-09-15,Inactive,emp00205@mta-corp.org
+EMP00206,Michael,Lewis,Maintenance,53.48,2018-09-21,Active,emp00206@mta-corp.org
+EMP00207,Matthew,Martinez,IT,76.42,2015-03-04,Active,emp00207@mta-corp.org
+EMP00208,Kenneth,Taylor,HR,59.95,2015-11-03,Active,emp00208@mta-corp.org
+EMP00209,Patricia,Perez,Legal,63.34,2022-04-15,Inactive,emp00209@mta-corp.org
+EMP00210,Daniel,Green,Infrastructure,77.51,2019-04-06,Active,emp00210@mta-corp.org
+EMP00211,Edward,Williams,Customer Service,23.05,2024-10-13,On Leave,emp00211@mta-corp.org
+EMP00212,Christopher,Anderson,Infrastructure,24.51,2022-09-04,Active,emp00212@mta-corp.org
+EMP00213,Anthony,Rivera,Legal,25.18,2023-07-12,Active,emp00213@mta-corp.org
+EMP00214,Nancy,Johnson,Operations,40.07,2022-10-13,Active,emp00214@mta-corp.org
+EMP00215,Paul,White,IT,28.18,2018-04-16,Inactive,emp00215@mta-corp.org
+EMP00216,Brian,Baker,Procurement,30.47,2019-08-15,Active,emp00216@mta-corp.org
+EMP00217,Amanda,Harris,Customer Service,63.93,2015-11-20,Active,emp00217@mta-corp.org
+EMP00218,Barbara,Anderson,Safety,60.92,2021-07-16,Active,emp00218@mta-corp.org
+EMP00219,Kevin,Smith,Procurement,49.44,2017-11-11,Active,emp00219@mta-corp.org
+EMP00220,Edward,Hernandez,Maintenance,47.88,2022-08-07,Active,emp00220@mta-corp.org
+EMP00221,Nancy,Green,IT,64.41,2021-08-03,Active,emp00221@mta-corp.org
+EMP00222,Nancy,Gonzalez,IT,75.25,2024-06-24,Active,emp00222@mta-corp.org
+EMP00223,Mark,Torres,HR,56.72,2017-08-29,On Leave,emp00223@mta-corp.org
+EMP00224,Maria,Nelson,IT,36.75,2018-04-24,Inactive,emp00224@mta-corp.org
+EMP00225,Melissa,Roberts,Infrastructure,83.24,2024-09-13,Inactive,emp00225@mta-corp.org
+EMP00226,Emily,Jackson,Procurement,71.62,2023-05-11,Inactive,emp00226@mta-corp.org
+EMP00227,Paul,Anderson,Scheduling,31.14,2023-12-29,Active,emp00227@mta-corp.org
+EMP00228,Gary,Campbell,Procurement,62.34,2022-08-08,Active,emp00228@mta-corp.org
+EMP00229,Michael,Green,Scheduling,21.12,2022-01-17,Active,emp00229@mta-corp.org
+EMP00230,Carol,White,Infrastructure,27.24,2015-05-17,Active,emp00230@mta-corp.org
+EMP00231,Stephanie,Clark,Rail,31.85,2018-08-31,Inactive,emp00231@mta-corp.org
+EMP00232,Betty,King,Engineering,79.25,2024-10-29,Active,emp00232@mta-corp.org
+EMP00233,Kenneth,Jackson,Infrastructure,76.38,2017-11-18,Active,emp00233@mta-corp.org
+EMP00234,Robert,Martinez,Procurement,82.77,2020-04-02,On Leave,emp00234@mta-corp.org
+EMP00235,Melissa,Sanchez,Legal,72.01,2023-02-14,Active,emp00235@mta-corp.org
+EMP00236,Dorothy,Smith,Finance,54.18,2016-01-05,Active,emp00236@mta-corp.org
+EMP00237,Melissa,Mitchell,Scheduling,35.93,2019-02-18,Active,emp00237@mta-corp.org
+EMP00238,Anthony,White,Maintenance,63.38,2024-03-22,Active,emp00238@mta-corp.org
+EMP00239,Amanda,Scott,HR,79.36,2015-04-13,Active,emp00239@mta-corp.org
+EMP00240,Robert,Green,Legal,49.37,2022-04-06,On Leave,emp00240@mta-corp.org
+EMP00241,Helen,Clark,Maintenance,27.8,2018-05-22,Active,emp00241@mta-corp.org
+EMP00242,Emily,Davis,Maintenance,34.11,2018-05-31,Inactive,emp00242@mta-corp.org
+EMP00243,Mark,Robinson,HR,63.09,2016-07-09,On Leave,emp00243@mta-corp.org
+EMP00244,Edward,Clark,Customer Service,67.86,2022-10-23,Active,emp00244@mta-corp.org
+EMP00245,Donald,Adams,Maintenance,73.94,2024-12-05,Inactive,emp00245@mta-corp.org
+EMP00246,Karen,Williams,Infrastructure,43.14,2019-07-30,Active,emp00246@mta-corp.org
+EMP00247,Sarah,White,Maintenance,83.73,2019-12-27,Active,emp00247@mta-corp.org
+EMP00248,Helen,Thompson,Operations,44.98,2021-02-08,Active,emp00248@mta-corp.org
+EMP00249,Ashley,Garcia,Scheduling,32.61,2016-05-15,On Leave,emp00249@mta-corp.org
+EMP00250,Maria,Brown,Procurement,40.68,2021-09-11,Active,emp00250@mta-corp.org
+EMP00251,Brian,Wilson,Maintenance,73.68,2023-10-29,Inactive,emp00251@mta-corp.org
+EMP00252,Carol,Wilson,Legal,76.33,2017-04-28,Active,emp00252@mta-corp.org
+EMP00253,Barbara,Hill,Operations,36.94,2023-09-07,Active,emp00253@mta-corp.org
+EMP00254,Edward,Taylor,Procurement,30.1,2016-06-16,On Leave,emp00254@mta-corp.org
+EMP00255,Maria,Rodriguez,Operations,42.32,2024-09-18,Active,emp00255@mta-corp.org
+EMP00256,Daniel,Johnson,Rail,36.15,2021-08-08,Active,emp00256@mta-corp.org
+EMP00257,Donald,King,Maintenance,68.09,2023-04-27,Active,emp00257@mta-corp.org
+EMP00258,Rebecca,White,Engineering,57.98,2020-01-11,Active,emp00258@mta-corp.org
+EMP00259,Thomas,Flores,Operations,66.86,2020-08-25,On Leave,emp00259@mta-corp.org
+EMP00260,Nancy,Robinson,Scheduling,82.61,2020-11-05,Active,emp00260@mta-corp.org
+EMP00261,Dorothy,Ramirez,Scheduling,25.68,2020-05-15,On Leave,emp00261@mta-corp.org
+EMP00262,Robert,Garcia,HR,58.95,2019-12-22,Active,emp00262@mta-corp.org
+EMP00263,Karen,Flores,Scheduling,57.43,2016-05-31,On Leave,emp00263@mta-corp.org
+EMP00264,Mark,Hill,Engineering,38.11,2018-08-24,Inactive,emp00264@mta-corp.org
+EMP00265,Sandra,Miller,Procurement,65.17,2021-10-15,On Leave,emp00265@mta-corp.org
+EMP00266,Rebecca,Scott,Infrastructure,76.06,2022-04-20,Active,emp00266@mta-corp.org
+EMP00267,Thomas,Clark,HR,73.52,2020-01-24,Active,emp00267@mta-corp.org
+EMP00268,Matthew,Miller,HR,46.88,2019-08-31,On Leave,emp00268@mta-corp.org
+EMP00269,Betty,Martinez,Scheduling,79.88,2017-11-10,Active,emp00269@mta-corp.org
+EMP00270,Patricia,Garcia,IT,24.92,2016-01-09,On Leave,emp00270@mta-corp.org
+EMP00271,William,Scott,Operations,57.5,2019-03-07,Inactive,emp00271@mta-corp.org
+EMP00272,Lisa,Nelson,Maintenance,45.82,2021-04-19,On Leave,emp00272@mta-corp.org
+EMP00273,Sandra,Campbell,Operations,82.9,2023-06-01,Inactive,emp00273@mta-corp.org
+EMP00274,Paul,Miller,Customer Service,52.24,2018-07-03,Active,emp00274@mta-corp.org
+EMP00275,Kenneth,Anderson,Legal,25.7,2022-05-13,Inactive,emp00275@mta-corp.org
+EMP00276,Jennifer,Carter,Finance,56.68,2019-02-14,Active,emp00276@mta-corp.org
+EMP00277,Michelle,Roberts,Legal,59.84,2024-06-23,On Leave,emp00277@mta-corp.org
+EMP00278,Michelle,Johnson,Customer Service,80.28,2022-03-17,On Leave,emp00278@mta-corp.org
+EMP00279,Maria,Lopez,Finance,65.23,2017-12-31,Active,emp00279@mta-corp.org
+EMP00280,Paul,Smith,Rail,76.35,2018-10-23,Inactive,emp00280@mta-corp.org
+EMP00281,Dorothy,Jones,Rail,67.77,2022-05-16,Active,emp00281@mta-corp.org
+EMP00282,Stephanie,King,Bus,43.52,2016-01-11,Active,emp00282@mta-corp.org
+EMP00283,Richard,White,Finance,66.49,2018-10-28,Inactive,emp00283@mta-corp.org
+EMP00284,Patricia,Brown,Rail,28.97,2021-09-08,Inactive,emp00284@mta-corp.org
+EMP00285,Melissa,Garcia,Finance,47.97,2015-07-23,Active,emp00285@mta-corp.org
+EMP00286,Ronald,Lewis,IT,36.67,2020-06-12,Inactive,emp00286@mta-corp.org
+EMP00287,Paul,Ramirez,Maintenance,37.34,2016-04-11,On Leave,emp00287@mta-corp.org
+EMP00288,Emily,King,Scheduling,39.01,2021-08-26,Active,emp00288@mta-corp.org
+EMP00289,Ronald,Brown,Operations,32.09,2019-06-07,Active,emp00289@mta-corp.org
+EMP00290,William,Carter,Finance,37.75,2023-08-10,Active,emp00290@mta-corp.org
+EMP00291,Emily,Mitchell,IT,30.18,2015-02-01,Active,emp00291@mta-corp.org
+EMP00292,Deborah,Anderson,Engineering,55.66,2020-12-21,On Leave,emp00292@mta-corp.org
+EMP00293,Paul,Jones,IT,75.81,2024-01-16,Active,emp00293@mta-corp.org
+EMP00294,Maria,Robinson,Maintenance,75.83,2019-11-22,Inactive,emp00294@mta-corp.org
+EMP00295,Brian,Sanchez,Infrastructure,61.07,2019-10-25,Active,emp00295@mta-corp.org
+EMP00296,Dorothy,Johnson,HR,29.93,2016-04-16,Inactive,emp00296@mta-corp.org
+EMP00297,Jason,White,Maintenance,47.54,2020-02-28,Active,emp00297@mta-corp.org
+EMP00298,Sandra,Nguyen,IT,53.34,2017-09-23,Active,emp00298@mta-corp.org
+EMP00299,Nancy,Mitchell,HR,33.23,2024-10-05,Active,emp00299@mta-corp.org
+EMP00300,Steven,Green,Maintenance,53.79,2015-11-09,Active,emp00300@mta-corp.org
+EMP00301,Paul,Thompson,Infrastructure,82.22,2023-09-15,On Leave,emp00301@mta-corp.org
+EMP00302,Barbara,Thomas,Maintenance,28.24,2024-02-21,Active,emp00302@mta-corp.org
+EMP00303,Ronald,Martinez,Procurement,68.98,2016-12-11,Active,emp00303@mta-corp.org
+EMP00304,Rebecca,Green,Safety,49.35,2016-12-26,Inactive,emp00304@mta-corp.org
+EMP00305,Carol,Lewis,Scheduling,79.96,2023-07-10,Inactive,emp00305@mta-corp.org
+EMP00306,Anthony,Flores,HR,75.97,2022-03-18,On Leave,emp00306@mta-corp.org
+EMP00307,Barbara,Lewis,Maintenance,49.68,2018-07-18,On Leave,emp00307@mta-corp.org
+EMP00308,Karen,Nguyen,Operations,41.9,2018-05-25,Active,emp00308@mta-corp.org
+EMP00309,Ashley,Lewis,Operations,22.28,2018-06-25,Active,emp00309@mta-corp.org
+EMP00310,Helen,Garcia,Customer Service,58.01,2015-11-11,Active,emp00310@mta-corp.org
+EMP00311,Carol,Scott,Procurement,67.64,2020-03-10,Active,emp00311@mta-corp.org
+EMP00312,Brian,Adams,Bus,39.88,2020-01-17,Active,emp00312@mta-corp.org
+EMP00313,Barbara,Brown,Safety,25.38,2020-08-15,Active,emp00313@mta-corp.org
+EMP00314,Patricia,Allen,Scheduling,29.98,2023-01-04,Active,emp00314@mta-corp.org
+EMP00315,George,Lewis,Engineering,53.26,2022-12-08,Active,emp00315@mta-corp.org
+EMP00316,Betty,Jackson,IT,45.68,2019-01-30,Active,emp00316@mta-corp.org
+EMP00317,Ronald,Brown,Procurement,60.45,2022-08-12,Active,emp00317@mta-corp.org
+EMP00318,Lisa,Miller,Engineering,63.61,2015-09-27,Active,emp00318@mta-corp.org
+EMP00319,Matthew,Nelson,Customer Service,76.57,2017-10-29,Active,emp00319@mta-corp.org
+EMP00320,Carol,Nelson,Rail,79.46,2015-11-30,Active,emp00320@mta-corp.org
+EMP00321,Jason,Nelson,IT,27.08,2022-05-11,On Leave,emp00321@mta-corp.org
+EMP00322,Nancy,Scott,IT,61.29,2015-12-14,Active,emp00322@mta-corp.org
+EMP00323,William,Nelson,Infrastructure,73.63,2024-02-13,On Leave,emp00323@mta-corp.org
+EMP00324,Donna,Garcia,Scheduling,63.09,2022-09-08,Inactive,emp00324@mta-corp.org
+EMP00325,Maria,White,Finance,30.49,2019-01-22,Active,emp00325@mta-corp.org
+EMP00326,Rebecca,Young,Bus,33.57,2018-10-31,Active,emp00326@mta-corp.org
+EMP00327,Robert,Jackson,Legal,70.91,2016-09-26,Inactive,emp00327@mta-corp.org
+EMP00328,Edward,Mitchell,Engineering,21.01,2023-08-24,Active,emp00328@mta-corp.org
+EMP00329,Rebecca,Flores,Rail,58.22,2024-10-29,Active,emp00329@mta-corp.org
+EMP00330,Susan,Hall,Procurement,60.05,2016-10-26,Active,emp00330@mta-corp.org
+EMP00331,George,Williams,IT,42.73,2023-02-01,On Leave,emp00331@mta-corp.org
+EMP00332,George,Flores,Finance,68.53,2017-08-30,Active,emp00332@mta-corp.org
+EMP00333,Edward,Thomas,Finance,82.71,2017-08-16,Active,emp00333@mta-corp.org
+EMP00334,Joseph,White,Scheduling,81.48,2024-05-13,Active,emp00334@mta-corp.org
+EMP00335,Rebecca,Jackson,Procurement,43.89,2020-03-06,Inactive,emp00335@mta-corp.org
+EMP00336,Richard,Gonzalez,Procurement,58.71,2019-09-11,Active,emp00336@mta-corp.org
+EMP00337,Helen,Walker,Legal,43.19,2015-08-02,Active,emp00337@mta-corp.org
+EMP00338,Donna,Davis,Finance,24.08,2022-12-23,Active,emp00338@mta-corp.org
+EMP00339,George,Allen,Rail,73.76,2018-01-22,Active,emp00339@mta-corp.org
+EMP00340,George,Thompson,Operations,46.09,2017-06-28,Active,emp00340@mta-corp.org
+EMP00341,Betty,Thomas,IT,84.64,2020-08-18,Active,emp00341@mta-corp.org
+EMP00342,Maria,Lee,Maintenance,74.31,2017-07-08,On Leave,emp00342@mta-corp.org
+EMP00343,Barbara,Rodriguez,Operations,37.58,2018-10-05,Active,emp00343@mta-corp.org
+EMP00344,William,Carter,Infrastructure,49.7,2022-10-22,Inactive,emp00344@mta-corp.org
+EMP00345,Patricia,Johnson,Finance,32.84,2015-01-22,Active,emp00345@mta-corp.org
+EMP00346,Matthew,Hill,Engineering,46.65,2021-02-25,Active,emp00346@mta-corp.org
+EMP00347,Nancy,Davis,Operations,34.36,2017-08-31,On Leave,emp00347@mta-corp.org
+EMP00348,Amanda,Robinson,Maintenance,25.87,2023-11-26,Active,emp00348@mta-corp.org
+EMP00349,Edward,Johnson,Scheduling,52.77,2021-09-10,Active,emp00349@mta-corp.org
+EMP00350,Barbara,Jackson,IT,18.6,2023-01-22,Active,emp00350@mta-corp.org
+EMP00351,Brian,Clark,Rail,62.68,2017-09-12,Active,emp00351@mta-corp.org
+EMP00352,Betty,Jones,Engineering,54.68,2020-11-14,Inactive,emp00352@mta-corp.org
+EMP00353,Maria,Harris,Legal,49.76,2021-03-19,On Leave,emp00353@mta-corp.org
+EMP00354,Betty,Taylor,Infrastructure,19.58,2019-05-04,Active,emp00354@mta-corp.org
+EMP00355,Sarah,Campbell,Scheduling,60.28,2018-11-13,Inactive,emp00355@mta-corp.org
+EMP00356,Gary,Perez,Rail,21.45,2023-03-31,Inactive,emp00356@mta-corp.org
+EMP00357,Helen,Lopez,Legal,70.31,2018-10-18,Active,emp00357@mta-corp.org
+EMP00358,Kenneth,Green,Rail,72.46,2022-10-19,Active,emp00358@mta-corp.org
+EMP00359,Rebecca,Robinson,Operations,38.01,2023-01-11,Active,emp00359@mta-corp.org
+EMP00360,Joseph,Williams,HR,80.57,2023-11-15,Inactive,emp00360@mta-corp.org
+EMP00361,Edward,Walker,Finance,20.94,2019-06-20,On Leave,emp00361@mta-corp.org
+EMP00362,Christopher,Thompson,Legal,70.43,2017-02-21,On Leave,emp00362@mta-corp.org
+EMP00363,Karen,Davis,Procurement,42.97,2018-09-21,Active,emp00363@mta-corp.org
+EMP00364,George,Harris,HR,83.25,2023-05-03,Active,emp00364@mta-corp.org
+EMP00365,Emily,White,Procurement,53.03,2022-10-05,Active,emp00365@mta-corp.org
+EMP00366,Sandra,Garcia,IT,58.56,2023-02-26,Active,emp00366@mta-corp.org
+EMP00367,Christopher,Lee,Maintenance,23.82,2021-02-12,On Leave,emp00367@mta-corp.org
+EMP00368,Nancy,Lewis,Customer Service,66.22,2018-04-25,Active,emp00368@mta-corp.org
+EMP00369,George,Thompson,Safety,21.32,2022-09-26,Active,emp00369@mta-corp.org
+EMP00370,Sandra,Moore,Scheduling,83.67,2021-11-23,Active,emp00370@mta-corp.org
+EMP00371,Kevin,Green,IT,42.66,2015-11-04,On Leave,emp00371@mta-corp.org
+EMP00372,Richard,Johnson,Rail,74.94,2022-08-14,On Leave,emp00372@mta-corp.org
+EMP00373,George,Williams,Rail,22.97,2023-10-06,On Leave,emp00373@mta-corp.org
+EMP00374,Betty,Harris,Customer Service,20.65,2019-02-09,Active,emp00374@mta-corp.org
+EMP00375,George,White,HR,48.02,2022-08-13,Active,emp00375@mta-corp.org
+EMP00376,William,King,HR,44.97,2021-06-08,On Leave,emp00376@mta-corp.org
+EMP00377,Sarah,Davis,Operations,67.42,2018-02-15,Active,emp00377@mta-corp.org
+EMP00378,Mark,Scott,Maintenance,35.91,2020-10-21,Active,emp00378@mta-corp.org
+EMP00379,George,Wilson,Customer Service,37.49,2022-11-23,Active,emp00379@mta-corp.org
+EMP00380,Jennifer,Rodriguez,Legal,23.42,2017-03-30,Active,emp00380@mta-corp.org
+EMP00381,George,Garcia,Procurement,63.85,2022-12-31,Active,emp00381@mta-corp.org
+EMP00382,Paul,Rivera,Maintenance,55.07,2022-06-28,Active,emp00382@mta-corp.org
+EMP00383,Nancy,Hernandez,Infrastructure,65.69,2024-12-29,On Leave,emp00383@mta-corp.org
+EMP00384,Susan,White,Engineering,33.41,2022-02-25,Active,emp00384@mta-corp.org
+EMP00385,William,Thomas,Procurement,51.35,2023-11-19,Active,emp00385@mta-corp.org
+EMP00386,Brian,White,Safety,71.94,2021-03-19,Inactive,emp00386@mta-corp.org
+EMP00387,Amanda,Garcia,Maintenance,39.07,2016-06-15,On Leave,emp00387@mta-corp.org
+EMP00388,Kenneth,King,IT,69.65,2023-01-23,Inactive,emp00388@mta-corp.org
+EMP00389,William,Lee,Scheduling,23.43,2015-10-30,Active,emp00389@mta-corp.org
+EMP00390,Donna,Thompson,Rail,76.88,2022-08-17,Inactive,emp00390@mta-corp.org
+EMP00391,Carol,Lopez,Procurement,82.76,2022-03-05,Active,emp00391@mta-corp.org
+EMP00392,Linda,Davis,Engineering,28.68,2020-08-21,Active,emp00392@mta-corp.org
+EMP00393,Daniel,Rivera,Bus,41.51,2016-10-25,Inactive,emp00393@mta-corp.org
+EMP00394,Patricia,Taylor,Bus,60.73,2018-03-09,Inactive,emp00394@mta-corp.org
+EMP00395,William,Green,Finance,59.36,2018-01-29,Active,emp00395@mta-corp.org
+EMP00396,Helen,Hernandez,Customer Service,81.12,2020-08-20,Active,emp00396@mta-corp.org
+EMP00397,Kevin,Flores,Infrastructure,78.48,2016-12-02,Active,emp00397@mta-corp.org
+EMP00398,Brian,Williams,Legal,75.94,2024-06-13,Active,emp00398@mta-corp.org
+EMP00399,Helen,Roberts,Customer Service,36.1,2015-07-06,Active,emp00399@mta-corp.org
+EMP00400,Brian,Clark,Customer Service,60.99,2023-08-08,Active,emp00400@mta-corp.org
+EMP00401,Anthony,Wright,Finance,61.19,2024-12-20,Active,emp00401@mta-corp.org
+EMP00402,Sarah,Baker,IT,38.28,2020-06-01,Active,emp00402@mta-corp.org
+EMP00403,Linda,Hernandez,Safety,46.14,2022-09-21,Active,emp00403@mta-corp.org
+EMP00404,Lisa,Hill,Rail,39.29,2017-04-15,On Leave,emp00404@mta-corp.org
+EMP00405,Matthew,Thompson,IT,27.2,2018-07-31,Active,emp00405@mta-corp.org
+EMP00406,Michelle,Miller,HR,34.58,2020-10-10,Active,emp00406@mta-corp.org
+EMP00407,George,Thomas,Rail,24.94,2017-12-31,Active,emp00407@mta-corp.org
+EMP00408,Amanda,Clark,Bus,82.52,2019-04-23,Active,emp00408@mta-corp.org
+EMP00409,Daniel,Torres,Infrastructure,39.3,2024-02-15,Active,emp00409@mta-corp.org
+EMP00410,Steven,Robinson,Safety,76.96,2020-08-02,Active,emp00410@mta-corp.org
+EMP00411,Patricia,Sanchez,Engineering,48.91,2015-04-05,Active,emp00411@mta-corp.org
+EMP00412,Carol,Thompson,Operations,21.86,2017-05-31,Active,emp00412@mta-corp.org
+EMP00413,Helen,Baker,Safety,37.5,2021-09-13,Active,emp00413@mta-corp.org
+EMP00414,Michael,Ramirez,Rail,77.18,2024-07-02,On Leave,emp00414@mta-corp.org
+EMP00415,Gary,Sanchez,HR,21.51,2019-02-07,Active,emp00415@mta-corp.org
+EMP00416,Michelle,Gonzalez,HR,55.29,2021-05-24,Active,emp00416@mta-corp.org
+EMP00417,Steven,Lewis,Procurement,55.07,2019-05-02,Inactive,emp00417@mta-corp.org
+EMP00418,Amanda,Davis,Rail,83.34,2022-08-18,Active,emp00418@mta-corp.org
+EMP00419,Lisa,Scott,HR,68.71,2019-03-09,Active,emp00419@mta-corp.org
+EMP00420,Steven,Sanchez,Engineering,21.18,2021-10-03,Active,emp00420@mta-corp.org
+EMP00421,Deborah,Perez,Procurement,50.0,2016-07-15,Active,emp00421@mta-corp.org
+EMP00422,Ronald,Allen,Rail,40.31,2016-09-02,Inactive,emp00422@mta-corp.org
+EMP00423,Richard,Sanchez,Customer Service,67.66,2018-07-28,Active,emp00423@mta-corp.org
+EMP00424,Lisa,Allen,Legal,52.4,2021-08-28,Active,emp00424@mta-corp.org
+EMP00425,Brian,Martin,Safety,72.75,2022-12-12,Active,emp00425@mta-corp.org
+EMP00426,Melissa,Davis,IT,57.32,2018-09-18,On Leave,emp00426@mta-corp.org
+EMP00427,Jason,Green,Operations,58.19,2024-10-12,Active,emp00427@mta-corp.org
+EMP00428,Rebecca,Nguyen,Customer Service,33.63,2022-05-09,Active,emp00428@mta-corp.org
+EMP00429,Kenneth,Hernandez,Engineering,60.33,2021-07-18,Inactive,emp00429@mta-corp.org
+EMP00430,Mark,Martinez,Legal,63.77,2023-09-08,Active,emp00430@mta-corp.org
+EMP00431,Jason,Davis,Bus,19.76,2021-06-03,Active,emp00431@mta-corp.org
+EMP00432,Barbara,Clark,Infrastructure,32.06,2019-09-12,Inactive,emp00432@mta-corp.org
+EMP00433,Amanda,Walker,Legal,74.92,2023-09-10,On Leave,emp00433@mta-corp.org
+EMP00434,Deborah,Rodriguez,Engineering,32.29,2015-09-13,Active,emp00434@mta-corp.org
+EMP00435,Kenneth,King,IT,39.36,2022-06-05,Active,emp00435@mta-corp.org
+EMP00436,Edward,Perez,Engineering,42.06,2020-02-26,On Leave,emp00436@mta-corp.org
+EMP00437,Helen,Hall,Finance,59.07,2022-08-20,Active,emp00437@mta-corp.org
+EMP00438,Karen,Scott,Finance,33.45,2017-10-06,Active,emp00438@mta-corp.org
+EMP00439,Christopher,Rivera,Bus,64.4,2023-08-25,Active,emp00439@mta-corp.org
+EMP00440,Kenneth,Thompson,Engineering,80.59,2018-07-22,On Leave,emp00440@mta-corp.org
+EMP00441,Christopher,Davis,Customer Service,63.5,2018-01-25,Active,emp00441@mta-corp.org
+EMP00442,Paul,Roberts,Procurement,28.24,2019-06-05,Active,emp00442@mta-corp.org
+EMP00443,Deborah,Garcia,HR,79.95,2018-03-24,On Leave,emp00443@mta-corp.org
+EMP00444,Stephanie,Walker,Bus,31.94,2017-11-16,Inactive,emp00444@mta-corp.org
+EMP00445,Michelle,Hall,Finance,27.63,2018-01-15,Inactive,emp00445@mta-corp.org
+EMP00446,Carol,Thomas,Bus,21.88,2023-04-23,Inactive,emp00446@mta-corp.org
+EMP00447,Anthony,Anderson,Operations,25.16,2017-07-13,Active,emp00447@mta-corp.org
+EMP00448,Kenneth,Miller,Scheduling,69.76,2023-01-17,Active,emp00448@mta-corp.org
+EMP00449,Richard,Clark,Scheduling,80.68,2021-03-04,Active,emp00449@mta-corp.org
+EMP00450,Helen,Gonzalez,Procurement,82.6,2020-05-09,Active,emp00450@mta-corp.org
+EMP00451,Helen,Brown,Procurement,24.45,2018-03-15,Inactive,emp00451@mta-corp.org
+EMP00452,Edward,Mitchell,Infrastructure,75.05,2017-08-09,Active,emp00452@mta-corp.org
+EMP00453,Donald,Lopez,Operations,84.81,2016-12-18,Active,emp00453@mta-corp.org
+EMP00454,Emily,Lopez,Infrastructure,82.48,2023-11-02,Active,emp00454@mta-corp.org
+EMP00455,David,Smith,Finance,56.27,2024-10-31,Active,emp00455@mta-corp.org
+EMP00456,Christopher,Robinson,Scheduling,54.63,2018-10-04,Active,emp00456@mta-corp.org
+EMP00457,William,Allen,Safety,36.64,2024-12-21,Active,emp00457@mta-corp.org
+EMP00458,Richard,Campbell,Safety,61.61,2018-09-16,On Leave,emp00458@mta-corp.org
+EMP00459,James,Mitchell,HR,71.09,2017-02-01,Inactive,emp00459@mta-corp.org
+EMP00460,Gary,Gonzalez,Rail,59.13,2022-07-25,On Leave,emp00460@mta-corp.org
+EMP00461,Sandra,Allen,HR,24.27,2019-07-19,On Leave,emp00461@mta-corp.org
+EMP00462,Susan,Rodriguez,Safety,40.02,2016-01-26,Active,emp00462@mta-corp.org
+EMP00463,Charles,Harris,Bus,48.21,2015-01-28,Active,emp00463@mta-corp.org
+EMP00464,Nancy,Nguyen,Infrastructure,56.6,2018-09-12,Active,emp00464@mta-corp.org
+EMP00465,Betty,Hall,Bus,22.63,2022-05-01,Active,emp00465@mta-corp.org
+EMP00466,Nancy,Hernandez,IT,64.12,2020-03-21,On Leave,emp00466@mta-corp.org
+EMP00467,Nancy,Hall,Maintenance,60.97,2023-08-20,Active,emp00467@mta-corp.org
+EMP00468,Amanda,Anderson,Bus,82.16,2019-02-14,Active,emp00468@mta-corp.org
+EMP00469,Ashley,Mitchell,Customer Service,43.35,2016-09-19,On Leave,emp00469@mta-corp.org
+EMP00470,Kenneth,Carter,Engineering,71.83,2021-02-27,Active,emp00470@mta-corp.org
+EMP00471,Sarah,Baker,Procurement,58.12,2023-07-18,Active,emp00471@mta-corp.org
+EMP00472,George,King,Infrastructure,42.56,2020-11-22,Inactive,emp00472@mta-corp.org
+EMP00473,Linda,Scott,Engineering,31.94,2016-04-04,Inactive,emp00473@mta-corp.org
+EMP00474,Richard,Lee,Legal,53.1,2016-09-05,Active,emp00474@mta-corp.org
+EMP00475,Jessica,Rivera,Customer Service,51.01,2022-08-18,Inactive,emp00475@mta-corp.org
+EMP00476,Linda,Robinson,Rail,52.63,2019-12-30,Active,emp00476@mta-corp.org
+EMP00477,Linda,Scott,Safety,63.24,2021-04-28,Active,emp00477@mta-corp.org
+EMP00478,Maria,Sanchez,Finance,72.79,2023-02-10,On Leave,emp00478@mta-corp.org
+EMP00479,Carol,Jones,Operations,46.68,2017-06-11,On Leave,emp00479@mta-corp.org
+EMP00480,Edward,Brown,Maintenance,84.08,2015-09-19,Active,emp00480@mta-corp.org
+EMP00481,Christopher,Clark,Rail,69.64,2015-05-10,On Leave,emp00481@mta-corp.org
+EMP00482,Helen,Clark,HR,84.52,2023-03-07,Active,emp00482@mta-corp.org
+EMP00483,Mark,Harris,Maintenance,63.9,2020-01-12,On Leave,emp00483@mta-corp.org
+EMP00484,Edward,Rodriguez,Scheduling,75.71,2024-10-22,Active,emp00484@mta-corp.org
+EMP00485,Edward,Sanchez,Engineering,26.97,2017-01-01,Active,emp00485@mta-corp.org
+EMP00486,James,Carter,Operations,83.57,2024-05-12,Active,emp00486@mta-corp.org
+EMP00487,Matthew,Wright,IT,53.87,2022-07-21,Active,emp00487@mta-corp.org
+EMP00488,Ashley,Thompson,Rail,36.83,2017-10-10,On Leave,emp00488@mta-corp.org
+EMP00489,Jennifer,Williams,Procurement,62.4,2023-08-02,Inactive,emp00489@mta-corp.org
+EMP00490,Maria,Thomas,Bus,22.97,2023-08-04,Inactive,emp00490@mta-corp.org
+EMP00491,George,Hill,Scheduling,65.27,2015-05-18,Active,emp00491@mta-corp.org
+EMP00492,Stephanie,Williams,IT,47.69,2017-09-29,Inactive,emp00492@mta-corp.org
+EMP00493,Gary,Roberts,Operations,27.82,2017-06-08,Active,emp00493@mta-corp.org
+EMP00494,Matthew,Torres,HR,56.9,2017-08-17,On Leave,emp00494@mta-corp.org
+EMP00495,Daniel,Thomas,Finance,76.77,2024-03-06,On Leave,emp00495@mta-corp.org
+EMP00496,Thomas,Clark,Finance,36.8,2020-11-05,Inactive,emp00496@mta-corp.org
+EMP00497,Stephanie,Lopez,Scheduling,63.64,2021-08-20,Inactive,emp00497@mta-corp.org
+EMP00498,Linda,Thompson,Scheduling,63.14,2020-07-23,Inactive,emp00498@mta-corp.org
+EMP00499,Jason,Clark,IT,28.42,2018-07-29,Active,emp00499@mta-corp.org
+EMP00500,Gary,Wright,Safety,34.52,2017-01-23,Active,emp00500@mta-corp.org
+EMP00501,Deborah,Martinez,Procurement,49.29,2018-05-16,Active,emp00501@mta-corp.org
+EMP00502,Donald,Clark,Engineering,53.74,2021-04-22,Active,emp00502@mta-corp.org
+EMP00503,Charles,Wilson,HR,61.51,2017-09-21,Active,emp00503@mta-corp.org
+EMP00504,Betty,Garcia,Engineering,66.68,2024-07-01,Active,emp00504@mta-corp.org
+EMP00505,Karen,Harris,Scheduling,58.73,2015-07-31,Active,emp00505@mta-corp.org
+EMP00506,Robert,Gonzalez,Procurement,69.15,2024-10-18,On Leave,emp00506@mta-corp.org
+EMP00507,Michelle,Wilson,Safety,32.39,2022-07-13,Active,emp00507@mta-corp.org
+EMP00508,James,Wilson,Bus,82.48,2018-05-26,Active,emp00508@mta-corp.org
+EMP00509,Gary,Walker,Bus,64.76,2023-05-18,On Leave,emp00509@mta-corp.org
+EMP00510,Dorothy,Thomas,Engineering,39.89,2017-04-17,Active,emp00510@mta-corp.org
+EMP00511,Ashley,Wright,Scheduling,42.39,2019-04-09,Active,emp00511@mta-corp.org
+EMP00512,Steven,Young,Safety,25.06,2019-01-13,On Leave,emp00512@mta-corp.org
+EMP00513,Gary,Lee,Bus,43.15,2020-04-07,Active,emp00513@mta-corp.org
+EMP00514,Brian,Anderson,Infrastructure,28.2,2015-07-07,Active,emp00514@mta-corp.org
+EMP00515,Carol,Nguyen,Infrastructure,46.27,2021-03-16,Active,emp00515@mta-corp.org
+EMP00516,Lisa,Anderson,IT,56.39,2017-03-14,Active,emp00516@mta-corp.org
+EMP00517,Michelle,Adams,Scheduling,40.95,2020-08-07,Active,emp00517@mta-corp.org
+EMP00518,Helen,Mitchell,Safety,49.15,2023-02-11,On Leave,emp00518@mta-corp.org
+EMP00519,Paul,Hernandez,Rail,66.4,2023-12-01,Active,emp00519@mta-corp.org
+EMP00520,Edward,Adams,Operations,53.34,2017-01-23,Active,emp00520@mta-corp.org
+EMP00521,Kevin,Brown,Procurement,18.92,2024-03-04,Active,emp00521@mta-corp.org
+EMP00522,Anthony,Anderson,Maintenance,65.53,2024-06-13,Active,emp00522@mta-corp.org
+EMP00523,Steven,Robinson,HR,22.52,2017-06-14,On Leave,emp00523@mta-corp.org
+EMP00524,Amanda,Walker,Scheduling,50.94,2022-06-24,Active,emp00524@mta-corp.org
+EMP00525,Michelle,Clark,Operations,19.61,2020-12-19,On Leave,emp00525@mta-corp.org
+EMP00526,Edward,Jackson,Operations,51.9,2018-01-30,On Leave,emp00526@mta-corp.org
+EMP00527,Sandra,Lopez,Maintenance,79.55,2022-07-23,Inactive,emp00527@mta-corp.org
+EMP00528,Sarah,Gonzalez,Customer Service,53.51,2016-09-01,Active,emp00528@mta-corp.org
+EMP00529,Dorothy,Garcia,HR,82.29,2017-12-30,Active,emp00529@mta-corp.org
+EMP00530,Sarah,Hall,Bus,38.45,2021-05-03,Active,emp00530@mta-corp.org
+EMP00531,Helen,Carter,Operations,24.72,2022-05-01,Active,emp00531@mta-corp.org
+EMP00532,Michelle,Walker,Operations,60.84,2019-03-25,On Leave,emp00532@mta-corp.org
+EMP00533,Patricia,Young,Legal,47.35,2016-12-02,Active,emp00533@mta-corp.org
+EMP00534,Michael,King,Operations,33.78,2021-05-06,On Leave,emp00534@mta-corp.org
+EMP00535,Brian,Walker,Finance,21.6,2024-12-14,Active,emp00535@mta-corp.org
+EMP00536,Karen,Wright,Customer Service,62.26,2022-09-04,Active,emp00536@mta-corp.org
+EMP00537,Daniel,Johnson,Bus,57.54,2024-07-15,On Leave,emp00537@mta-corp.org
+EMP00538,Dorothy,Jones,Finance,29.3,2024-03-16,Active,emp00538@mta-corp.org
+EMP00539,Mark,Baker,Engineering,40.56,2021-05-10,On Leave,emp00539@mta-corp.org
+EMP00540,Jason,Campbell,Maintenance,51.8,2016-07-27,Active,emp00540@mta-corp.org
+EMP00541,Michael,Ramirez,Bus,74.27,2015-08-08,Active,emp00541@mta-corp.org
+EMP00542,Rebecca,Flores,Customer Service,44.88,2021-10-14,Active,emp00542@mta-corp.org
+EMP00543,Anthony,Moore,Procurement,84.51,2015-05-02,Active,emp00543@mta-corp.org
+EMP00544,Paul,Scott,IT,47.22,2017-07-23,On Leave,emp00544@mta-corp.org
+EMP00545,Kevin,Harris,Maintenance,69.85,2021-07-27,Active,emp00545@mta-corp.org
+EMP00546,Sarah,Rivera,Maintenance,23.96,2023-12-13,Active,emp00546@mta-corp.org
+EMP00547,Deborah,Green,Rail,67.69,2019-04-06,Active,emp00547@mta-corp.org
+EMP00548,Michael,Garcia,Operations,81.21,2019-01-17,Active,emp00548@mta-corp.org
+EMP00549,Gary,Moore,Maintenance,27.31,2019-01-14,Active,emp00549@mta-corp.org
+EMP00550,George,Scott,Engineering,52.58,2019-11-01,Active,emp00550@mta-corp.org
+EMP00551,Patricia,Thompson,Engineering,24.69,2015-04-18,Inactive,emp00551@mta-corp.org
+EMP00552,Daniel,Harris,Operations,37.91,2023-10-19,Active,emp00552@mta-corp.org
+EMP00553,Patricia,Campbell,Engineering,78.7,2023-09-27,Active,emp00553@mta-corp.org
+EMP00554,Donna,Hernandez,Scheduling,43.82,2021-05-31,Active,emp00554@mta-corp.org
+EMP00555,Nancy,Moore,Safety,28.2,2018-01-06,Active,emp00555@mta-corp.org
+EMP00556,Karen,Clark,Finance,50.7,2019-11-16,Active,emp00556@mta-corp.org
+EMP00557,Charles,Thomas,Infrastructure,60.06,2019-01-19,Inactive,emp00557@mta-corp.org
+EMP00558,Joseph,Robinson,Maintenance,27.51,2021-11-30,Active,emp00558@mta-corp.org
+EMP00559,Lisa,Flores,IT,71.97,2019-06-09,Active,emp00559@mta-corp.org
+EMP00560,Lisa,Ramirez,Legal,73.27,2019-12-09,On Leave,emp00560@mta-corp.org
+EMP00561,William,Martin,HR,58.61,2021-08-31,On Leave,emp00561@mta-corp.org
+EMP00562,Kenneth,Lee,Rail,82.64,2017-04-02,Active,emp00562@mta-corp.org
+EMP00563,Stephanie,Hall,Scheduling,51.15,2018-04-08,Inactive,emp00563@mta-corp.org
+EMP00564,Sarah,Lee,IT,37.14,2023-10-08,Active,emp00564@mta-corp.org
+EMP00565,Jennifer,Torres,Bus,57.88,2019-02-04,Inactive,emp00565@mta-corp.org
+EMP00566,Melissa,Roberts,Engineering,20.29,2017-01-06,On Leave,emp00566@mta-corp.org
+EMP00567,Deborah,Wilson,Safety,71.55,2020-03-05,On Leave,emp00567@mta-corp.org
+EMP00568,Donald,Baker,Safety,27.76,2015-10-11,Active,emp00568@mta-corp.org
+EMP00569,Charles,Nelson,Rail,66.06,2017-09-18,Active,emp00569@mta-corp.org
+EMP00570,George,Hill,Safety,57.22,2015-10-30,Inactive,emp00570@mta-corp.org
+EMP00571,Jason,Clark,Engineering,20.94,2020-09-06,Active,emp00571@mta-corp.org
+EMP00572,Edward,Hill,Scheduling,79.31,2022-11-13,Active,emp00572@mta-corp.org
+EMP00573,Sarah,Nelson,Scheduling,42.11,2023-08-16,On Leave,emp00573@mta-corp.org
+EMP00574,David,Torres,Scheduling,63.55,2021-11-14,Active,emp00574@mta-corp.org
+EMP00575,Lisa,Ramirez,Maintenance,19.2,2023-06-10,Active,emp00575@mta-corp.org
+EMP00576,Steven,Mitchell,Engineering,55.61,2017-06-28,On Leave,emp00576@mta-corp.org
+EMP00577,Thomas,Lewis,HR,44.51,2021-06-14,On Leave,emp00577@mta-corp.org
+EMP00578,Jason,Allen,Rail,41.44,2021-08-07,Active,emp00578@mta-corp.org
+EMP00579,Michael,Jackson,IT,79.72,2020-05-31,Active,emp00579@mta-corp.org
+EMP00580,Matthew,Martinez,HR,39.24,2016-04-20,Active,emp00580@mta-corp.org
+EMP00581,Jessica,King,Safety,41.66,2023-10-18,Active,emp00581@mta-corp.org
+EMP00582,Matthew,Hall,Safety,39.71,2019-11-30,Active,emp00582@mta-corp.org
+EMP00583,Deborah,Davis,Operations,74.97,2015-07-03,On Leave,emp00583@mta-corp.org
+EMP00584,Melissa,Hernandez,Infrastructure,34.72,2016-03-23,Active,emp00584@mta-corp.org
+EMP00585,Richard,Perez,Engineering,46.85,2021-03-10,Active,emp00585@mta-corp.org
+EMP00586,Dorothy,Green,Rail,30.89,2017-08-07,On Leave,emp00586@mta-corp.org
+EMP00587,Dorothy,Johnson,Infrastructure,59.34,2019-11-06,Active,emp00587@mta-corp.org
+EMP00588,Carol,Ramirez,IT,18.8,2020-01-16,Active,emp00588@mta-corp.org
+EMP00589,Karen,Carter,Infrastructure,72.28,2017-04-22,Active,emp00589@mta-corp.org
+EMP00590,Michael,Wright,Rail,42.83,2021-06-22,Active,emp00590@mta-corp.org
+EMP00591,Jennifer,Taylor,Scheduling,75.87,2020-02-18,Inactive,emp00591@mta-corp.org
+EMP00592,Daniel,Hill,IT,59.15,2022-03-02,Inactive,emp00592@mta-corp.org
+EMP00593,Paul,Thompson,Legal,48.95,2016-04-12,Active,emp00593@mta-corp.org
+EMP00594,Melissa,Rivera,Procurement,38.28,2024-02-16,Inactive,emp00594@mta-corp.org
+EMP00595,Patricia,Baker,Rail,39.33,2021-08-14,Active,emp00595@mta-corp.org
+EMP00596,Jennifer,Lopez,HR,64.61,2018-06-04,Inactive,emp00596@mta-corp.org
+EMP00597,Donald,Hill,Rail,56.72,2019-05-11,Active,emp00597@mta-corp.org
+EMP00598,Emily,Green,Engineering,64.61,2017-01-30,On Leave,emp00598@mta-corp.org
+EMP00599,Michelle,Hernandez,Safety,37.71,2016-12-10,Active,emp00599@mta-corp.org
+EMP00600,George,Flores,Operations,76.06,2018-07-12,Active,emp00600@mta-corp.org
+EMP00601,William,Gonzalez,Legal,44.03,2020-06-07,Inactive,emp00601@mta-corp.org
+EMP00602,Helen,Young,IT,64.03,2020-09-01,Active,emp00602@mta-corp.org
+EMP00603,George,Young,Rail,24.0,2022-12-18,Active,emp00603@mta-corp.org
+EMP00604,Gary,Anderson,Finance,20.67,2023-12-04,Active,emp00604@mta-corp.org
+EMP00605,Christopher,Hernandez,Procurement,48.91,2021-01-11,On Leave,emp00605@mta-corp.org
+EMP00606,Rebecca,Young,Engineering,52.47,2023-08-31,Inactive,emp00606@mta-corp.org
+EMP00607,Karen,Roberts,Engineering,73.25,2016-04-12,Active,emp00607@mta-corp.org
+EMP00608,Gary,Williams,Procurement,66.31,2021-01-29,Inactive,emp00608@mta-corp.org
+EMP00609,Sandra,Miller,Infrastructure,73.7,2017-06-14,Active,emp00609@mta-corp.org
+EMP00610,David,Lewis,Finance,41.68,2018-05-04,Active,emp00610@mta-corp.org
+EMP00611,Jennifer,Roberts,Procurement,34.26,2019-12-04,On Leave,emp00611@mta-corp.org
+EMP00612,Jason,Thompson,Legal,65.77,2021-08-05,On Leave,emp00612@mta-corp.org
+EMP00613,Richard,Flores,Rail,70.69,2019-10-20,Active,emp00613@mta-corp.org
+EMP00614,Linda,Torres,HR,53.9,2024-01-13,Inactive,emp00614@mta-corp.org
+EMP00615,Richard,Lee,Infrastructure,37.96,2021-01-15,Inactive,emp00615@mta-corp.org
+EMP00616,Steven,Baker,Legal,24.83,2017-12-31,Active,emp00616@mta-corp.org
+EMP00617,Karen,Adams,Rail,65.14,2015-08-31,Active,emp00617@mta-corp.org
+EMP00618,Barbara,Rivera,HR,73.59,2017-10-19,On Leave,emp00618@mta-corp.org
+EMP00619,Emily,Martinez,Customer Service,60.55,2019-05-28,On Leave,emp00619@mta-corp.org
+EMP00620,Mark,Lewis,Maintenance,60.64,2019-08-24,Active,emp00620@mta-corp.org
+EMP00621,Steven,Mitchell,Finance,64.7,2019-07-09,Active,emp00621@mta-corp.org
+EMP00622,Emily,Lee,Customer Service,18.66,2020-02-06,On Leave,emp00622@mta-corp.org
+EMP00623,Matthew,Robinson,Scheduling,62.67,2016-01-17,Active,emp00623@mta-corp.org
+EMP00624,Robert,Wright,IT,32.99,2024-07-14,Active,emp00624@mta-corp.org
+EMP00625,Jessica,Young,Finance,39.97,2024-04-01,Active,emp00625@mta-corp.org
+EMP00626,Michelle,Torres,Rail,56.15,2018-10-15,Active,emp00626@mta-corp.org
+EMP00627,Lisa,Baker,Procurement,21.72,2023-11-03,Active,emp00627@mta-corp.org
+EMP00628,Ashley,Johnson,Maintenance,80.31,2022-01-08,Active,emp00628@mta-corp.org
+EMP00629,Ashley,Smith,IT,31.95,2019-12-13,On Leave,emp00629@mta-corp.org
+EMP00630,Helen,Martin,Rail,76.65,2016-06-24,Active,emp00630@mta-corp.org
+EMP00631,Helen,White,Finance,23.98,2016-01-18,On Leave,emp00631@mta-corp.org
+EMP00632,Richard,Brown,IT,60.1,2022-04-11,On Leave,emp00632@mta-corp.org
+EMP00633,Gary,Anderson,IT,62.09,2022-11-04,On Leave,emp00633@mta-corp.org
+EMP00634,James,Wilson,Safety,23.68,2016-01-25,Inactive,emp00634@mta-corp.org
+EMP00635,Donna,Baker,Safety,19.12,2017-07-15,On Leave,emp00635@mta-corp.org
+EMP00636,Jennifer,Ramirez,Infrastructure,27.29,2018-11-08,Active,emp00636@mta-corp.org
+EMP00637,Mark,Garcia,Infrastructure,72.1,2017-07-26,Active,emp00637@mta-corp.org
+EMP00638,Betty,Martin,Rail,43.95,2018-07-07,Active,emp00638@mta-corp.org
+EMP00639,Melissa,Martinez,Maintenance,53.78,2022-03-12,Active,emp00639@mta-corp.org
+EMP00640,Helen,Hernandez,Safety,41.85,2021-11-04,Active,emp00640@mta-corp.org
+EMP00641,Stephanie,Martinez,IT,59.47,2022-01-16,Active,emp00641@mta-corp.org
+EMP00642,Jessica,Garcia,Maintenance,27.81,2024-08-23,Active,emp00642@mta-corp.org
+EMP00643,Matthew,Harris,HR,82.56,2021-08-11,Active,emp00643@mta-corp.org
+EMP00644,William,Thomas,Finance,61.37,2023-11-15,Active,emp00644@mta-corp.org
+EMP00645,Ronald,Hill,Infrastructure,58.9,2021-03-16,On Leave,emp00645@mta-corp.org
+EMP00646,Kevin,Martin,Bus,52.93,2015-04-20,Inactive,emp00646@mta-corp.org
+EMP00647,Stephanie,Sanchez,Finance,61.47,2017-02-11,Active,emp00647@mta-corp.org
+EMP00648,Mark,Davis,Bus,51.72,2020-07-20,Inactive,emp00648@mta-corp.org
+EMP00649,Donna,Smith,HR,80.61,2015-10-18,Active,emp00649@mta-corp.org
+EMP00650,Brian,Clark,HR,54.83,2019-05-04,Active,emp00650@mta-corp.org
+EMP00651,Kenneth,Roberts,Maintenance,19.61,2023-07-22,Active,emp00651@mta-corp.org
+EMP00652,Charles,Wilson,Operations,79.85,2015-02-26,Active,emp00652@mta-corp.org
+EMP00653,Christopher,Green,Infrastructure,51.82,2020-09-06,Active,emp00653@mta-corp.org
+EMP00654,Jason,Sanchez,Maintenance,61.1,2019-10-01,Inactive,emp00654@mta-corp.org
+EMP00655,Barbara,Moore,Maintenance,39.11,2021-11-28,Inactive,emp00655@mta-corp.org
+EMP00656,Barbara,Wright,HR,44.48,2017-04-12,On Leave,emp00656@mta-corp.org
+EMP00657,Helen,Baker,Scheduling,22.9,2023-07-24,On Leave,emp00657@mta-corp.org
+EMP00658,Matthew,Thomas,Operations,34.76,2019-11-27,Active,emp00658@mta-corp.org
+EMP00659,Ashley,Flores,Customer Service,22.16,2016-04-20,On Leave,emp00659@mta-corp.org
+EMP00660,Kevin,Mitchell,Rail,26.44,2023-04-26,On Leave,emp00660@mta-corp.org
+EMP00661,Jason,Smith,Rail,51.51,2016-07-16,Active,emp00661@mta-corp.org
+EMP00662,Donna,Campbell,Finance,29.6,2020-11-12,Active,emp00662@mta-corp.org
+EMP00663,Rebecca,Moore,Infrastructure,77.45,2023-05-30,Active,emp00663@mta-corp.org
+EMP00664,Sandra,Moore,Engineering,22.75,2018-10-04,On Leave,emp00664@mta-corp.org
+EMP00665,Anthony,Jones,Safety,48.77,2021-06-19,Active,emp00665@mta-corp.org
+EMP00666,Emily,Torres,Rail,42.95,2015-08-16,Active,emp00666@mta-corp.org
+EMP00667,Michael,Torres,Scheduling,66.56,2023-09-03,Active,emp00667@mta-corp.org
+EMP00668,Steven,Smith,Operations,75.6,2023-04-23,Active,emp00668@mta-corp.org
+EMP00669,David,Walker,HR,43.97,2017-09-28,Active,emp00669@mta-corp.org
+EMP00670,David,Scott,Procurement,79.28,2017-01-03,On Leave,emp00670@mta-corp.org
+EMP00671,Donald,Anderson,HR,35.01,2022-05-09,On Leave,emp00671@mta-corp.org
+EMP00672,Karen,Jones,Customer Service,43.29,2018-08-03,Inactive,emp00672@mta-corp.org
+EMP00673,Linda,Lopez,Bus,71.99,2022-07-20,Active,emp00673@mta-corp.org
+EMP00674,Robert,Robinson,Legal,37.27,2019-07-01,Active,emp00674@mta-corp.org
+EMP00675,Patricia,Scott,Safety,19.03,2018-09-02,Active,emp00675@mta-corp.org
+EMP00676,Brian,Martin,Infrastructure,59.91,2018-04-09,Active,emp00676@mta-corp.org
+EMP00677,Carol,Young,Procurement,70.1,2019-02-17,On Leave,emp00677@mta-corp.org
+EMP00678,Gary,Thomas,Rail,18.92,2021-02-16,Active,emp00678@mta-corp.org
+EMP00679,Thomas,Wright,HR,60.79,2015-04-08,On Leave,emp00679@mta-corp.org
+EMP00680,James,Perez,Operations,68.97,2024-11-02,Active,emp00680@mta-corp.org
+EMP00681,Stephanie,Campbell,Finance,25.41,2024-07-09,Inactive,emp00681@mta-corp.org
+EMP00682,Donald,Young,Operations,83.18,2017-09-02,Active,emp00682@mta-corp.org
+EMP00683,Karen,Garcia,Operations,79.76,2022-12-24,Inactive,emp00683@mta-corp.org
+EMP00684,Jason,White,Safety,83.31,2019-08-19,Active,emp00684@mta-corp.org
+EMP00685,Michael,Allen,Rail,60.87,2021-07-06,Active,emp00685@mta-corp.org
+EMP00686,Carol,Torres,Operations,47.43,2015-11-03,Active,emp00686@mta-corp.org
+EMP00687,Christopher,Taylor,Legal,39.45,2017-08-27,Active,emp00687@mta-corp.org
+EMP00688,Stephanie,Lee,HR,48.61,2022-11-10,Active,emp00688@mta-corp.org
+EMP00689,Joseph,Rodriguez,Procurement,69.71,2015-11-02,Active,emp00689@mta-corp.org
+EMP00690,Michael,Hernandez,Safety,49.49,2016-09-28,Active,emp00690@mta-corp.org
+EMP00691,Edward,Thompson,Procurement,32.31,2016-05-09,Active,emp00691@mta-corp.org
+EMP00692,Charles,Davis,Maintenance,28.98,2020-03-12,On Leave,emp00692@mta-corp.org
+EMP00693,Deborah,Hall,Customer Service,21.18,2018-05-31,Active,emp00693@mta-corp.org
+EMP00694,Patricia,Rivera,Bus,82.9,2016-08-30,Active,emp00694@mta-corp.org
+EMP00695,Linda,Baker,Finance,35.8,2020-10-04,Active,emp00695@mta-corp.org
+EMP00696,Dorothy,Lewis,Engineering,68.25,2015-05-08,Active,emp00696@mta-corp.org
+EMP00697,Ashley,Miller,Procurement,71.29,2016-01-23,Active,emp00697@mta-corp.org
+EMP00698,Linda,Roberts,Bus,27.19,2015-02-18,Active,emp00698@mta-corp.org
+EMP00699,Melissa,Green,Scheduling,24.09,2019-03-05,Inactive,emp00699@mta-corp.org
+EMP00700,Robert,Johnson,Maintenance,31.65,2017-11-26,On Leave,emp00700@mta-corp.org
+EMP00701,William,Garcia,Legal,73.65,2019-12-22,Active,emp00701@mta-corp.org
+EMP00702,David,Robinson,Operations,29.67,2016-05-16,Inactive,emp00702@mta-corp.org
+EMP00703,Matthew,Sanchez,Safety,20.46,2019-11-10,On Leave,emp00703@mta-corp.org
+EMP00704,Susan,Thompson,Bus,78.9,2019-10-14,Active,emp00704@mta-corp.org
+EMP00705,George,Martinez,Operations,59.34,2018-02-20,Inactive,emp00705@mta-corp.org
+EMP00706,Helen,Jackson,Safety,45.9,2017-10-03,Inactive,emp00706@mta-corp.org
+EMP00707,Linda,Garcia,Finance,43.97,2020-05-16,Active,emp00707@mta-corp.org
+EMP00708,Helen,King,Bus,60.45,2017-03-27,Inactive,emp00708@mta-corp.org
+EMP00709,Maria,Harris,Procurement,65.94,2023-11-30,Active,emp00709@mta-corp.org
+EMP00710,Emily,Thompson,Customer Service,51.91,2021-02-08,Active,emp00710@mta-corp.org
+EMP00711,Susan,Johnson,HR,58.21,2018-01-12,Active,emp00711@mta-corp.org
+EMP00712,Rebecca,Moore,Operations,72.28,2024-02-03,Active,emp00712@mta-corp.org
+EMP00713,Paul,Roberts,Customer Service,84.97,2020-12-08,Active,emp00713@mta-corp.org
+EMP00714,Sarah,Nelson,Bus,36.22,2016-02-15,On Leave,emp00714@mta-corp.org
+EMP00715,Gary,Anderson,Customer Service,74.79,2015-08-18,Active,emp00715@mta-corp.org
+EMP00716,Susan,Lopez,Bus,57.9,2018-12-24,On Leave,emp00716@mta-corp.org
+EMP00717,Paul,Nguyen,Operations,65.28,2022-10-28,Active,emp00717@mta-corp.org
+EMP00718,Brian,Martinez,Customer Service,81.57,2021-05-14,Active,emp00718@mta-corp.org
+EMP00719,Nancy,Lopez,Safety,21.02,2021-01-29,Active,emp00719@mta-corp.org
+EMP00720,Ronald,Anderson,Operations,53.51,2017-08-10,Active,emp00720@mta-corp.org
+EMP00721,Amanda,Gonzalez,Procurement,27.18,2018-09-20,On Leave,emp00721@mta-corp.org
+EMP00722,Daniel,Brown,Operations,28.32,2016-12-27,On Leave,emp00722@mta-corp.org
+EMP00723,Rebecca,Davis,Legal,53.5,2016-08-03,Active,emp00723@mta-corp.org
+EMP00724,Betty,Rivera,Scheduling,44.81,2015-10-25,Active,emp00724@mta-corp.org
+EMP00725,Nancy,Lee,Rail,83.39,2018-10-10,On Leave,emp00725@mta-corp.org
+EMP00726,Anthony,Young,Scheduling,39.6,2019-11-25,On Leave,emp00726@mta-corp.org
+EMP00727,Jason,Flores,Procurement,42.23,2021-04-20,On Leave,emp00727@mta-corp.org
+EMP00728,Susan,Harris,Finance,67.31,2021-08-09,Active,emp00728@mta-corp.org
+EMP00729,Susan,Campbell,Operations,81.59,2016-06-05,Inactive,emp00729@mta-corp.org
+EMP00730,Rebecca,Torres,Operations,30.61,2019-05-23,Active,emp00730@mta-corp.org
+EMP00731,Amanda,Anderson,Scheduling,56.11,2024-01-26,Active,emp00731@mta-corp.org
+EMP00732,Lisa,Mitchell,Maintenance,34.33,2016-07-30,Active,emp00732@mta-corp.org
+EMP00733,Anthony,Garcia,Legal,65.65,2016-11-18,On Leave,emp00733@mta-corp.org
+EMP00734,Lisa,Lewis,Operations,36.14,2023-03-07,Active,emp00734@mta-corp.org
+EMP00735,Robert,Thompson,Finance,70.84,2022-10-10,On Leave,emp00735@mta-corp.org
+EMP00736,Linda,Harris,Safety,67.22,2015-01-06,Active,emp00736@mta-corp.org
+EMP00737,Donald,Young,IT,41.86,2024-12-02,Active,emp00737@mta-corp.org
+EMP00738,Kenneth,Torres,Scheduling,68.92,2016-02-20,Active,emp00738@mta-corp.org
+EMP00739,George,Jones,Procurement,74.74,2016-10-28,Active,emp00739@mta-corp.org
+EMP00740,Daniel,Taylor,Maintenance,23.43,2015-03-24,Active,emp00740@mta-corp.org
+EMP00741,Mark,Hernandez,Infrastructure,23.49,2024-12-15,Active,emp00741@mta-corp.org
+EMP00742,Ronald,Flores,Safety,65.35,2018-10-16,Active,emp00742@mta-corp.org
+EMP00743,Richard,Hill,IT,28.95,2022-05-01,Active,emp00743@mta-corp.org
+EMP00744,Jessica,Gonzalez,IT,64.86,2018-09-18,On Leave,emp00744@mta-corp.org
+EMP00745,Edward,Taylor,Scheduling,37.22,2023-03-09,Active,emp00745@mta-corp.org
+EMP00746,Linda,Sanchez,Customer Service,55.05,2016-01-28,Active,emp00746@mta-corp.org
+EMP00747,Linda,White,Operations,46.94,2016-09-21,Active,emp00747@mta-corp.org
+EMP00748,Kevin,Green,Customer Service,50.44,2024-03-28,Active,emp00748@mta-corp.org
+EMP00749,Jessica,Hernandez,Scheduling,37.91,2015-04-16,Active,emp00749@mta-corp.org
+EMP00750,Jennifer,Martin,Procurement,44.93,2020-04-23,Active,emp00750@mta-corp.org
+EMP00751,Charles,Garcia,Scheduling,54.68,2022-05-31,Active,emp00751@mta-corp.org
+EMP00752,Mark,White,Rail,48.14,2019-02-28,Active,emp00752@mta-corp.org
+EMP00753,Ashley,Taylor,Bus,74.17,2019-12-07,Inactive,emp00753@mta-corp.org
+EMP00754,Barbara,Carter,Infrastructure,62.89,2015-09-10,Active,emp00754@mta-corp.org
+EMP00755,Paul,Wright,IT,83.05,2022-06-29,Inactive,emp00755@mta-corp.org
+EMP00756,Michelle,Brown,Legal,44.24,2017-07-20,Inactive,emp00756@mta-corp.org
+EMP00757,Edward,Baker,Legal,80.77,2019-09-11,Inactive,emp00757@mta-corp.org
+EMP00758,Sarah,Walker,Finance,23.75,2024-11-20,On Leave,emp00758@mta-corp.org
+EMP00759,Steven,Torres,Engineering,71.73,2015-05-23,On Leave,emp00759@mta-corp.org
+EMP00760,Barbara,Davis,Procurement,48.36,2021-12-15,Active,emp00760@mta-corp.org
+EMP00761,Joseph,Rodriguez,Operations,46.65,2017-05-17,On Leave,emp00761@mta-corp.org
+EMP00762,Joseph,Green,Rail,73.97,2019-11-19,Active,emp00762@mta-corp.org
+EMP00763,Matthew,Jones,Maintenance,44.31,2018-08-02,Active,emp00763@mta-corp.org
+EMP00764,Daniel,Moore,Engineering,48.97,2021-03-11,Active,emp00764@mta-corp.org
+EMP00765,Jason,Flores,Customer Service,53.25,2023-10-27,Active,emp00765@mta-corp.org
+EMP00766,Donald,Martinez,Rail,56.18,2016-04-05,Inactive,emp00766@mta-corp.org
+EMP00767,Michael,Miller,Customer Service,70.34,2023-07-04,Active,emp00767@mta-corp.org
+EMP00768,Edward,Thompson,IT,36.07,2024-09-23,On Leave,emp00768@mta-corp.org
+EMP00769,Brian,Hill,Safety,20.99,2020-06-11,Active,emp00769@mta-corp.org
+EMP00770,Barbara,Flores,Customer Service,63.77,2019-07-09,Active,emp00770@mta-corp.org
+EMP00771,Dorothy,Perez,Infrastructure,34.3,2015-06-08,On Leave,emp00771@mta-corp.org
+EMP00772,Karen,White,Operations,40.97,2020-04-30,Active,emp00772@mta-corp.org
+EMP00773,Karen,Young,Legal,64.8,2018-06-27,Active,emp00773@mta-corp.org
+EMP00774,Thomas,Rodriguez,Finance,83.29,2024-09-29,Active,emp00774@mta-corp.org
+EMP00775,Daniel,Moore,Infrastructure,46.22,2023-09-06,On Leave,emp00775@mta-corp.org
+EMP00776,Joseph,Lewis,Bus,79.24,2016-01-01,Active,emp00776@mta-corp.org
+EMP00777,Emily,Carter,Engineering,76.17,2023-04-23,Active,emp00777@mta-corp.org
+EMP00778,Richard,Jones,Finance,65.69,2020-10-11,Active,emp00778@mta-corp.org
+EMP00779,Rebecca,King,Customer Service,20.43,2016-07-09,Active,emp00779@mta-corp.org
+EMP00780,Joseph,Brown,Bus,20.7,2024-10-24,Active,emp00780@mta-corp.org
+EMP00781,Deborah,Gonzalez,Finance,43.0,2019-01-16,Active,emp00781@mta-corp.org
+EMP00782,Dorothy,Green,Maintenance,63.8,2020-08-30,Active,emp00782@mta-corp.org
+EMP00783,Emily,Hill,Safety,30.31,2019-03-06,Active,emp00783@mta-corp.org
+EMP00784,Michelle,Thompson,HR,29.37,2021-07-31,Active,emp00784@mta-corp.org
+EMP00785,Jason,Garcia,Finance,20.33,2023-05-26,Active,emp00785@mta-corp.org
+EMP00786,Brian,Roberts,Bus,75.5,2016-10-29,On Leave,emp00786@mta-corp.org
+EMP00787,Melissa,Wilson,Finance,61.83,2017-07-11,Inactive,emp00787@mta-corp.org
+EMP00788,Rebecca,Roberts,Scheduling,19.09,2015-03-24,Active,emp00788@mta-corp.org
+EMP00789,Susan,Hill,Procurement,19.06,2022-04-05,Active,emp00789@mta-corp.org
+EMP00790,Nancy,Rivera,Infrastructure,61.24,2021-10-27,Active,emp00790@mta-corp.org
+EMP00791,Paul,Robinson,Finance,33.01,2019-03-23,Active,emp00791@mta-corp.org
+EMP00792,Donna,Flores,IT,57.37,2022-08-05,Active,emp00792@mta-corp.org
+EMP00793,Kevin,White,Engineering,61.55,2020-09-26,Inactive,emp00793@mta-corp.org
+EMP00794,Nancy,Baker,Maintenance,50.54,2018-03-03,Active,emp00794@mta-corp.org
+EMP00795,Anthony,Lee,Legal,36.91,2018-02-06,On Leave,emp00795@mta-corp.org
+EMP00796,Helen,Martin,Bus,28.47,2022-12-22,Active,emp00796@mta-corp.org
+EMP00797,Ronald,Sanchez,Scheduling,39.75,2015-08-21,Active,emp00797@mta-corp.org
+EMP00798,Maria,Adams,Safety,84.83,2023-02-02,Active,emp00798@mta-corp.org
+EMP00799,Dorothy,Harris,Infrastructure,20.85,2019-09-11,On Leave,emp00799@mta-corp.org
+EMP00800,Joseph,Perez,Infrastructure,65.94,2021-06-01,On Leave,emp00800@mta-corp.org
+EMP00801,Anthony,Walker,Scheduling,42.34,2020-12-29,Active,emp00801@mta-corp.org
+EMP00802,Richard,Nelson,Engineering,30.55,2024-06-24,Active,emp00802@mta-corp.org
+EMP00803,William,Mitchell,Finance,66.72,2020-04-12,Inactive,emp00803@mta-corp.org
+EMP00804,Susan,Baker,HR,62.02,2023-07-22,Active,emp00804@mta-corp.org
+EMP00805,Thomas,Mitchell,Legal,38.92,2018-12-26,Active,emp00805@mta-corp.org
+EMP00806,Charles,Nguyen,Finance,49.34,2019-03-03,Active,emp00806@mta-corp.org
+EMP00807,Linda,Green,Customer Service,57.09,2020-04-11,Inactive,emp00807@mta-corp.org
+EMP00808,Kenneth,Gonzalez,Engineering,26.47,2015-10-19,On Leave,emp00808@mta-corp.org
+EMP00809,Donna,Martin,IT,22.1,2019-04-13,Active,emp00809@mta-corp.org
+EMP00810,Joseph,Perez,IT,84.15,2016-07-16,Active,emp00810@mta-corp.org
+EMP00811,Daniel,Rivera,Rail,70.3,2016-08-09,Active,emp00811@mta-corp.org
+EMP00812,Anthony,Lopez,HR,60.69,2018-09-24,Active,emp00812@mta-corp.org
+EMP00813,Karen,Wilson,Procurement,69.94,2020-01-26,Inactive,emp00813@mta-corp.org
+EMP00814,Richard,Young,Procurement,69.28,2023-07-29,Active,emp00814@mta-corp.org
+EMP00815,Amanda,Ramirez,Scheduling,47.06,2016-06-14,Active,emp00815@mta-corp.org
+EMP00816,Mark,Smith,Operations,54.0,2020-05-09,On Leave,emp00816@mta-corp.org
+EMP00817,James,Lee,Procurement,73.91,2019-03-09,Active,emp00817@mta-corp.org
+EMP00818,Melissa,Smith,Scheduling,67.28,2015-03-15,Active,emp00818@mta-corp.org
+EMP00819,Paul,Martin,Rail,25.33,2022-10-11,Inactive,emp00819@mta-corp.org
+EMP00820,Nancy,Hernandez,Maintenance,73.29,2021-08-08,Active,emp00820@mta-corp.org
+EMP00821,Ashley,Campbell,Engineering,58.16,2018-04-06,Active,emp00821@mta-corp.org
+EMP00822,Melissa,Rodriguez,HR,84.74,2019-11-12,Active,emp00822@mta-corp.org
+EMP00823,Gary,Gonzalez,Rail,81.55,2019-01-11,Active,emp00823@mta-corp.org
+EMP00824,Thomas,Anderson,Infrastructure,83.99,2015-03-20,Active,emp00824@mta-corp.org
+EMP00825,Maria,Nguyen,Engineering,29.74,2023-03-26,Active,emp00825@mta-corp.org
+EMP00826,Helen,Williams,IT,76.79,2022-12-22,Active,emp00826@mta-corp.org
+EMP00827,Edward,Flores,Operations,58.0,2023-08-26,Active,emp00827@mta-corp.org
+EMP00828,Michael,Adams,Legal,19.81,2022-06-04,On Leave,emp00828@mta-corp.org
+EMP00829,Donald,Lewis,IT,26.72,2016-04-19,Active,emp00829@mta-corp.org
+EMP00830,Jason,Martinez,Bus,64.73,2020-04-27,On Leave,emp00830@mta-corp.org
+EMP00831,Nancy,Clark,Scheduling,25.22,2015-02-08,Inactive,emp00831@mta-corp.org
+EMP00832,Amanda,Hill,Infrastructure,27.62,2018-01-10,Active,emp00832@mta-corp.org
+EMP00833,Matthew,Flores,Maintenance,37.3,2020-09-26,Active,emp00833@mta-corp.org
+EMP00834,Joseph,Hill,Bus,70.23,2020-07-31,Inactive,emp00834@mta-corp.org
+EMP00835,Paul,Rivera,IT,38.14,2017-04-06,Active,emp00835@mta-corp.org
+EMP00836,Emily,Wilson,Infrastructure,80.55,2021-02-23,Active,emp00836@mta-corp.org
+EMP00837,James,Smith,Scheduling,24.42,2017-08-18,Active,emp00837@mta-corp.org
+EMP00838,Brian,Nelson,Safety,28.42,2024-05-14,Active,emp00838@mta-corp.org
+EMP00839,Steven,Jones,Infrastructure,66.62,2023-09-28,Active,emp00839@mta-corp.org
+EMP00840,Thomas,Robinson,Finance,36.06,2022-03-24,Active,emp00840@mta-corp.org
+EMP00841,Susan,Williams,Legal,37.82,2016-02-13,On Leave,emp00841@mta-corp.org
+EMP00842,Sandra,Mitchell,Maintenance,24.82,2018-07-04,Active,emp00842@mta-corp.org
+EMP00843,William,Nelson,Scheduling,29.84,2015-02-09,Active,emp00843@mta-corp.org
+EMP00844,Amanda,Moore,Infrastructure,24.68,2019-11-28,Active,emp00844@mta-corp.org
+EMP00845,Jennifer,Sanchez,IT,82.49,2017-01-19,Active,emp00845@mta-corp.org
+EMP00846,Mark,Hall,Legal,50.3,2024-05-16,Active,emp00846@mta-corp.org
+EMP00847,Richard,Davis,Rail,64.8,2022-04-11,Active,emp00847@mta-corp.org
+EMP00848,Richard,Miller,IT,79.1,2024-06-20,Active,emp00848@mta-corp.org
+EMP00849,Brian,Baker,Safety,30.55,2023-12-31,Active,emp00849@mta-corp.org
+EMP00850,Paul,Flores,Operations,75.86,2023-09-27,On Leave,emp00850@mta-corp.org
+EMP00851,Kenneth,Young,Maintenance,77.52,2016-06-19,Active,emp00851@mta-corp.org
+EMP00852,Robert,Taylor,Scheduling,39.4,2015-07-08,On Leave,emp00852@mta-corp.org
+EMP00853,Melissa,King,Procurement,67.95,2024-09-26,On Leave,emp00853@mta-corp.org
+EMP00854,Thomas,Nelson,Legal,41.0,2021-05-03,Inactive,emp00854@mta-corp.org
+EMP00855,Jason,Flores,Maintenance,47.28,2022-09-20,On Leave,emp00855@mta-corp.org
+EMP00856,Kenneth,Thompson,Scheduling,63.47,2017-10-15,Active,emp00856@mta-corp.org
+EMP00857,Michelle,Flores,Operations,19.27,2016-08-31,Active,emp00857@mta-corp.org
+EMP00858,Kenneth,Young,Legal,29.5,2020-09-01,Active,emp00858@mta-corp.org
+EMP00859,Sarah,Perez,Finance,21.85,2018-08-06,Active,emp00859@mta-corp.org
+EMP00860,Helen,Harris,IT,72.84,2021-03-04,Active,emp00860@mta-corp.org
+EMP00861,George,Torres,Safety,24.35,2020-02-24,Active,emp00861@mta-corp.org
+EMP00862,Daniel,Davis,Safety,68.06,2020-01-06,Active,emp00862@mta-corp.org
+EMP00863,Dorothy,Clark,Operations,55.55,2016-02-25,Active,emp00863@mta-corp.org
+EMP00864,Patricia,Hill,Customer Service,60.9,2024-04-05,Inactive,emp00864@mta-corp.org
+EMP00865,Jessica,Adams,Scheduling,48.84,2021-04-22,Active,emp00865@mta-corp.org
+EMP00866,Linda,Anderson,Legal,48.72,2019-01-28,Inactive,emp00866@mta-corp.org
+EMP00867,Amanda,Hill,Safety,66.16,2023-08-10,Active,emp00867@mta-corp.org
+EMP00868,George,Davis,Maintenance,68.99,2023-01-11,Active,emp00868@mta-corp.org
+EMP00869,Lisa,Thompson,Legal,60.64,2015-01-09,Active,emp00869@mta-corp.org
+EMP00870,Donna,White,Infrastructure,25.57,2021-02-21,Active,emp00870@mta-corp.org
+EMP00871,William,Rivera,Infrastructure,66.48,2020-07-09,Active,emp00871@mta-corp.org
+EMP00872,Amanda,Gonzalez,Bus,26.53,2017-11-07,Active,emp00872@mta-corp.org
+EMP00873,Ashley,Gonzalez,Infrastructure,40.97,2017-06-02,Active,emp00873@mta-corp.org
+EMP00874,Anthony,Baker,Customer Service,26.69,2015-07-10,Active,emp00874@mta-corp.org
+EMP00875,Kevin,Nguyen,Engineering,27.45,2020-02-17,Active,emp00875@mta-corp.org
+EMP00876,Donna,Mitchell,Operations,55.29,2015-01-18,Active,emp00876@mta-corp.org
+EMP00877,Carol,Walker,Engineering,70.44,2024-05-28,Active,emp00877@mta-corp.org
+EMP00878,Carol,Lopez,Infrastructure,72.71,2022-10-04,Active,emp00878@mta-corp.org
+EMP00879,Kevin,Hill,Customer Service,77.2,2019-05-06,Inactive,emp00879@mta-corp.org
+EMP00880,Mark,Clark,Customer Service,79.41,2024-11-19,Active,emp00880@mta-corp.org
+EMP00881,Dorothy,Perez,Finance,48.61,2018-01-25,Active,emp00881@mta-corp.org
+EMP00882,Donald,Hill,Infrastructure,77.45,2016-07-19,Inactive,emp00882@mta-corp.org
+EMP00883,Jason,Scott,Legal,39.38,2018-05-09,On Leave,emp00883@mta-corp.org
+EMP00884,Anthony,Wilson,Bus,32.45,2021-03-17,On Leave,emp00884@mta-corp.org
+EMP00885,Melissa,Thompson,Scheduling,27.32,2018-04-05,On Leave,emp00885@mta-corp.org
+EMP00886,Susan,Allen,Engineering,64.67,2022-04-16,Active,emp00886@mta-corp.org
+EMP00887,Jennifer,Carter,HR,55.89,2022-12-19,Inactive,emp00887@mta-corp.org
+EMP00888,Kevin,Rivera,IT,63.34,2021-05-26,Inactive,emp00888@mta-corp.org
+EMP00889,Sandra,Smith,Engineering,25.58,2018-03-17,Active,emp00889@mta-corp.org
+EMP00890,Linda,Nelson,Operations,31.79,2016-08-18,Active,emp00890@mta-corp.org
+EMP00891,Melissa,Taylor,Rail,74.32,2018-03-19,On Leave,emp00891@mta-corp.org
+EMP00892,Christopher,Wilson,Procurement,54.49,2023-10-18,Active,emp00892@mta-corp.org
+EMP00893,George,Miller,Customer Service,76.22,2024-02-17,On Leave,emp00893@mta-corp.org
+EMP00894,Thomas,Mitchell,Scheduling,55.82,2021-04-20,Active,emp00894@mta-corp.org
+EMP00895,Jason,Jackson,Infrastructure,62.69,2020-09-23,Active,emp00895@mta-corp.org
+EMP00896,Donald,Baker,HR,82.73,2019-05-07,Active,emp00896@mta-corp.org
+EMP00897,Stephanie,Taylor,Bus,59.77,2015-02-23,Active,emp00897@mta-corp.org
+EMP00898,Thomas,Green,Infrastructure,65.68,2024-04-22,Active,emp00898@mta-corp.org
+EMP00899,Carol,Wright,Infrastructure,58.63,2023-06-20,On Leave,emp00899@mta-corp.org
+EMP00900,Christopher,Lewis,Rail,83.9,2017-03-03,Active,emp00900@mta-corp.org
+EMP00901,Susan,Mitchell,Engineering,26.44,2017-02-04,Active,emp00901@mta-corp.org
+EMP00902,Karen,Scott,Finance,27.15,2019-10-22,Inactive,emp00902@mta-corp.org
+EMP00903,Charles,Smith,HR,49.51,2024-06-27,Active,emp00903@mta-corp.org
+EMP00904,Barbara,Lee,Customer Service,21.88,2015-06-13,On Leave,emp00904@mta-corp.org
+EMP00905,Kevin,Martin,Safety,71.03,2021-11-26,Inactive,emp00905@mta-corp.org
+EMP00906,Robert,Rivera,HR,53.44,2019-01-06,Active,emp00906@mta-corp.org
+EMP00907,Robert,Allen,Rail,46.16,2020-11-02,Inactive,emp00907@mta-corp.org
+EMP00908,Patricia,Thompson,Bus,77.25,2019-07-11,On Leave,emp00908@mta-corp.org
+EMP00909,Lisa,White,Finance,33.03,2018-09-21,Inactive,emp00909@mta-corp.org
+EMP00910,Kenneth,Scott,Legal,68.52,2020-12-12,On Leave,emp00910@mta-corp.org
+EMP00911,Jennifer,Nelson,HR,48.14,2015-02-06,On Leave,emp00911@mta-corp.org
+EMP00912,Amanda,Thomas,Operations,63.89,2021-11-18,Active,emp00912@mta-corp.org
+EMP00913,Jennifer,Harris,Finance,54.43,2019-04-12,Active,emp00913@mta-corp.org
+EMP00914,Donna,Roberts,HR,52.7,2015-04-12,Inactive,emp00914@mta-corp.org
+EMP00915,Emily,Williams,Finance,78.24,2019-12-31,Active,emp00915@mta-corp.org
+EMP00916,Steven,Garcia,Maintenance,29.63,2018-08-05,Inactive,emp00916@mta-corp.org
+EMP00917,James,Green,Maintenance,32.52,2020-12-24,On Leave,emp00917@mta-corp.org
+EMP00918,Jessica,Baker,IT,74.07,2023-09-04,Active,emp00918@mta-corp.org
+EMP00919,Jason,Mitchell,Procurement,47.44,2021-01-11,Active,emp00919@mta-corp.org
+EMP00920,Melissa,Martinez,Operations,49.04,2023-05-18,Active,emp00920@mta-corp.org
+EMP00921,Patricia,Jones,Operations,30.34,2015-06-05,Active,emp00921@mta-corp.org
+EMP00922,Robert,Torres,Legal,33.64,2021-04-04,Active,emp00922@mta-corp.org
+EMP00923,Mark,Lewis,Scheduling,45.4,2019-07-28,Active,emp00923@mta-corp.org
+EMP00924,Mark,Baker,Maintenance,54.07,2015-03-11,On Leave,emp00924@mta-corp.org
+EMP00925,Amanda,Jones,Procurement,68.11,2023-01-29,Active,emp00925@mta-corp.org
+EMP00926,Robert,Thompson,Engineering,25.56,2022-11-10,On Leave,emp00926@mta-corp.org
+EMP00927,Ronald,Garcia,Finance,69.39,2018-05-19,Active,emp00927@mta-corp.org
+EMP00928,Dorothy,Nelson,Operations,50.02,2019-04-12,Inactive,emp00928@mta-corp.org
+EMP00929,William,Mitchell,IT,71.49,2017-06-19,Inactive,emp00929@mta-corp.org
+EMP00930,Anthony,Martinez,Finance,63.54,2018-04-23,On Leave,emp00930@mta-corp.org
+EMP00931,Betty,Smith,Engineering,76.67,2022-04-07,Active,emp00931@mta-corp.org
+EMP00932,David,Smith,Customer Service,58.18,2016-05-19,Inactive,emp00932@mta-corp.org
+EMP00933,Patricia,Martin,Bus,68.26,2021-02-20,On Leave,emp00933@mta-corp.org
+EMP00934,Jessica,Clark,Scheduling,75.12,2018-11-09,Active,emp00934@mta-corp.org
+EMP00935,Susan,Anderson,Customer Service,74.01,2016-10-21,Active,emp00935@mta-corp.org
+EMP00936,Susan,Nelson,Procurement,56.22,2016-04-14,Active,emp00936@mta-corp.org
+EMP00937,Gary,Scott,Safety,61.37,2024-07-19,Active,emp00937@mta-corp.org
+EMP00938,Kevin,Jones,Finance,25.03,2018-04-05,On Leave,emp00938@mta-corp.org
+EMP00939,Emily,Perez,HR,27.03,2021-07-06,On Leave,emp00939@mta-corp.org
+EMP00940,Michael,Jackson,Customer Service,23.14,2017-08-18,Active,emp00940@mta-corp.org
+EMP00941,Emily,Lewis,HR,59.49,2018-07-25,Active,emp00941@mta-corp.org
+EMP00942,Carol,Martinez,Customer Service,56.2,2022-10-11,Active,emp00942@mta-corp.org
+EMP00943,Richard,Smith,HR,34.87,2019-10-21,Active,emp00943@mta-corp.org
+EMP00944,Stephanie,Adams,IT,36.9,2022-12-27,Active,emp00944@mta-corp.org
+EMP00945,Melissa,Campbell,HR,76.88,2016-07-04,Active,emp00945@mta-corp.org
+EMP00946,Paul,Roberts,Finance,50.88,2019-12-30,Active,emp00946@mta-corp.org
+EMP00947,Helen,Hill,Maintenance,74.48,2016-12-20,Active,emp00947@mta-corp.org
+EMP00948,Edward,Gonzalez,Finance,67.28,2024-12-29,On Leave,emp00948@mta-corp.org
+EMP00949,Matthew,Jones,Operations,75.0,2015-11-10,On Leave,emp00949@mta-corp.org
+EMP00950,Carol,Nguyen,IT,69.65,2015-05-08,Active,emp00950@mta-corp.org
+EMP00951,Michelle,Taylor,Engineering,77.95,2015-05-31,Inactive,emp00951@mta-corp.org
+EMP00952,Helen,Roberts,Rail,42.83,2020-04-17,Active,emp00952@mta-corp.org
+EMP00953,Carol,Campbell,Legal,37.85,2023-08-29,Active,emp00953@mta-corp.org
+EMP00954,Steven,Garcia,IT,42.7,2020-08-14,Active,emp00954@mta-corp.org
+EMP00955,Sarah,Flores,Scheduling,29.53,2022-06-07,Inactive,emp00955@mta-corp.org
+EMP00956,George,Hernandez,Rail,56.16,2016-07-28,Inactive,emp00956@mta-corp.org
+EMP00957,Barbara,Mitchell,Infrastructure,50.65,2022-05-24,Active,emp00957@mta-corp.org
+EMP00958,Thomas,Carter,Safety,33.91,2015-06-15,Active,emp00958@mta-corp.org
+EMP00959,Thomas,Williams,Scheduling,32.25,2019-02-22,Active,emp00959@mta-corp.org
+EMP00960,Kenneth,Robinson,Operations,21.15,2019-05-09,On Leave,emp00960@mta-corp.org
+EMP00961,Michael,Rivera,Engineering,60.63,2018-08-20,Active,emp00961@mta-corp.org
+EMP00962,Stephanie,Taylor,Customer Service,54.7,2024-05-12,Active,emp00962@mta-corp.org
+EMP00963,Helen,Harris,HR,57.58,2019-03-23,Active,emp00963@mta-corp.org
+EMP00964,Charles,Harris,Bus,52.84,2020-10-17,Active,emp00964@mta-corp.org
+EMP00965,Paul,Young,Procurement,50.56,2024-03-01,Inactive,emp00965@mta-corp.org
+EMP00966,Steven,Rodriguez,Safety,29.51,2015-01-28,Active,emp00966@mta-corp.org
+EMP00967,Helen,Moore,Bus,28.49,2020-10-08,Active,emp00967@mta-corp.org
+EMP00968,Ronald,Rivera,Legal,26.37,2019-01-23,Active,emp00968@mta-corp.org
+EMP00969,Lisa,Campbell,Maintenance,50.52,2019-08-26,Active,emp00969@mta-corp.org
+EMP00970,Jessica,Nguyen,Rail,61.54,2020-05-16,Active,emp00970@mta-corp.org
+EMP00971,Sarah,Williams,Rail,56.64,2015-04-02,Active,emp00971@mta-corp.org
+EMP00972,Anthony,Allen,Operations,77.74,2016-07-05,Active,emp00972@mta-corp.org
+EMP00973,Richard,Taylor,Rail,52.86,2015-08-18,Active,emp00973@mta-corp.org
+EMP00974,Brian,Green,Operations,76.92,2021-09-20,On Leave,emp00974@mta-corp.org
+EMP00975,Christopher,Garcia,Bus,48.37,2022-06-03,Active,emp00975@mta-corp.org
+EMP00976,Kenneth,Hernandez,Bus,73.72,2024-09-22,Inactive,emp00976@mta-corp.org
+EMP00977,Carol,Roberts,Rail,59.94,2016-08-07,Inactive,emp00977@mta-corp.org
+EMP00978,Richard,Campbell,Scheduling,41.29,2017-12-19,Active,emp00978@mta-corp.org
+EMP00979,Carol,Jones,Bus,43.65,2021-09-09,Active,emp00979@mta-corp.org
+EMP00980,Maria,Gonzalez,Engineering,75.66,2016-03-20,Inactive,emp00980@mta-corp.org
+EMP00981,Donald,Martinez,Customer Service,24.9,2022-09-04,Active,emp00981@mta-corp.org
+EMP00982,Ronald,Williams,Procurement,53.84,2021-11-23,Active,emp00982@mta-corp.org
+EMP00983,Kenneth,Nelson,Rail,78.48,2016-01-17,Inactive,emp00983@mta-corp.org
+EMP00984,James,Roberts,Scheduling,61.67,2024-04-12,Inactive,emp00984@mta-corp.org
+EMP00985,Betty,Williams,Infrastructure,53.73,2019-09-20,Active,emp00985@mta-corp.org
+EMP00986,Kenneth,Roberts,IT,41.81,2023-12-31,On Leave,emp00986@mta-corp.org
+EMP00987,Jason,Torres,Maintenance,46.8,2023-07-17,Active,emp00987@mta-corp.org
+EMP00988,Rebecca,Anderson,Legal,24.07,2020-05-08,Inactive,emp00988@mta-corp.org
+EMP00989,Edward,Clark,Finance,31.07,2024-10-31,On Leave,emp00989@mta-corp.org
+EMP00990,James,Torres,Engineering,26.34,2023-05-04,Active,emp00990@mta-corp.org
+EMP00991,Helen,Wilson,Infrastructure,71.99,2019-03-17,Active,emp00991@mta-corp.org
+EMP00992,Michael,Martinez,IT,61.83,2019-01-23,Active,emp00992@mta-corp.org
+EMP00993,Edward,Ramirez,Customer Service,42.82,2017-12-06,Active,emp00993@mta-corp.org
+EMP00994,Dorothy,Carter,Bus,45.98,2022-08-19,Inactive,emp00994@mta-corp.org
+EMP00995,Susan,White,Engineering,55.4,2020-05-30,Active,emp00995@mta-corp.org
+EMP00996,Brian,Thompson,Procurement,65.42,2018-06-10,On Leave,emp00996@mta-corp.org
+EMP00997,Kevin,Davis,Infrastructure,33.78,2016-07-19,On Leave,emp00997@mta-corp.org
+EMP00998,Michael,Wilson,Engineering,45.14,2016-10-24,Active,emp00998@mta-corp.org
+EMP00999,Michelle,Flores,Infrastructure,64.02,2023-12-25,Active,emp00999@mta-corp.org
+EMP01000,Mark,Green,Operations,71.99,2016-10-20,Active,emp01000@mta-corp.org
