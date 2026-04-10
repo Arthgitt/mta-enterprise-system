@@ -1,12 +1,5 @@
 # MTA Enterprise Workforce Data Pipeline & Analytics System
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?logo=postgresql)
-![BigQuery](https://img.shields.io/badge/BigQuery-Google-4285F4?logo=googlecloud)
-![C#](https://img.shields.io/badge/C%23-.NET_8-512BD4?logo=dotnet)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 > **Production-grade enterprise workforce timekeeping and payroll analytics platform.**  
 > Inspired by systems like Kronos/ADP — processes 5,000+ employee time records daily through a full ETL pipeline, exposes a REST API, and surfaces insights in a real-time analytics dashboard.
@@ -333,6 +326,3 @@ python -m scheduler.cron_jobs
 
 ---
 
-## License
-
-MIT — free to use, modify, and deploy for portfolio/commercial purposes.
